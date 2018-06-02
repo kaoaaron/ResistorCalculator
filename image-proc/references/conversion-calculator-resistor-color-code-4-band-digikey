@@ -1,0 +1,1679 @@
+
+
+    <!DOCTYPE html>
+    <html class="no-js" lang="en-in">
+    <head><script type=text/javascript src="/i10c@p1/client/nv-10.1.11/monitor.html_streaming/instart.js"></script><script type=text/javascript>INSTART.Init({"apiDomain":"assets.insnw.net","correlation_id":"1527742836:4cea8e19eeff6a8c","custName":"digikey","devJsExtraFlags":"{\"disableQuerySelectorInterception\" :true,  'rumDataConfigKey':'/instartlogic/clientdatacollector/getconfig/monitorprod.json','custName':'digikey','propName':'phase3asia'}","disableInjectionXhr":true,"disableInjectionXhrQueryParam":"instart_disable_injection","enableHtmlStreaming":true,"enableQSCallDiffComputationConfig":true,"enableQuerySelectorMonitoring":true,"htmlStreamingVersion":"V2","iframeCommunicationTimeout":3000,"nanovisorGlobalNameSpace":"I10C","partialImage":false,"propName":"phase3asia","rId":"1345","release":"nv-10.1.11","rum":false,"serveNanovisorSameDomain":true,"useIframeRpc":false,"useWrapper":false,"ver":"monitor.html_streaming","virtualDomains":4,"virtualizeDomains":["^www\\.digikey\\.co\\.nz$","^www\\.digikey\\.com\\.au$","^www\\.digikey\\.hk$","^www\\.digikey\\.in$","^www\\.digikey\\.jp$","^www\\.digikey\\.kr$","^www\\.digikey\\.my$","^www\\.digikey\\.sg$","^www\\.digikey\\.tw$"]}
+);</script>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="keywords" content="4 Band Resistor Color Code Calculator and Chart, digikey" /><meta name="description" content="The Resistor Color Code Calculator decodes and identifies a value and tolerance of 4 band wire wound resistors. More online conversion calculators at Digi-Key." /><script type="text/javascript" src="/classic/dtagent_ICA23STVjpqrx_7000000191013.js" data-dtconfig="agentUri=/classic/dtagent_ICA23STVjpqrx_7000000191013.js|rid=RID_-238983659|rpid=-563677601|domain=digikey.in|rt=10000|cors=1|lastModification=1527622966065|lab=1|tp=500,50,0,1|reportUrl=//dynatrace.digikey.com/dtmon|app=Default Application"></script><link rel="canonical" href="https://www.digikey.in/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-PL" href="https://www.digikey.pl/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-RO" href="https://www.digikey.ro/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-PT" href="https://www.digikey.pt/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-MY" href="https://www.digikey.my/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="es-MX" href="https://www.digikey.com.mx/es/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-MX" href="https://www.digikey.com.mx/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-LT" href="https://www.digikey.lt/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-LU" href="https://www.digikey.lu/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-NZ" href="https://www.digikey.co.nz/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-NO" href="https://www.digikey.no/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-NL" href="https://www.digikey.nl/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="zh-TW" href="https://www.digikey.tw/zh/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-TW" href="https://www.digikey.tw/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-GB" href="https://www.digikey.co.uk/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-SI" href="https://www.digikey.si/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-ZA" href="https://www.digikey.co.za/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-SK" href="https://www.digikey.sk/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-SG" href="https://www.digikey.sg/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="zh-SG" href="https://www.digikey.sg/zh/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-SE" href="https://www.digikey.se/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="de-CH" href="https://www.digikey.ch/de/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="fr-CH" href="https://www.digikey.ch/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="it-CH" href="https://www.digikey.ch/it/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-CH" href="https://www.digikey.ch/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="ko-KR" href="https://www.digikey.kr/ko/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-KR" href="https://www.digikey.kr/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="es-ES" href="https://www.digikey.es/es/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-ES" href="https://www.digikey.es/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-CN" href="https://www.digikey.cn/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-CA" href="https://www.digikey.ca/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-US" href="https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="es-US" href="https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-DK" href="https://www.digikey.dk/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-CZ" href="https://www.digikey.cz/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="de-AT" href="https://www.digikey.at/de/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-AT" href="https://www.digikey.at/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-AU" href="https://www.digikey.com.au/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-BG" href="https://www.digikey.bg/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-BE" href="https://www.digikey.be/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-IE" href="https://www.digikey.ie/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-IN" href="https://www.digikey.in/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-HU" href="https://www.digikey.hu/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="ja-JP" href="https://www.digikey.jp/ja/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-JP" href="https://www.digikey.jp/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-LV" href="https://www.digikey.lv/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="he-IL" href="https://www.digikey.co.il/he/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-IL" href="https://www.digikey.co.il/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="it-IT" href="https://www.digikey.it/it/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-IT" href="https://www.digikey.it/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="de-IT" href="https://www.digikey.it/de/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-EE" href="https://www.digikey.ee/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-FI" href="https://www.digikey.fi/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-HK" href="https://www.digikey.hk/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="zh-HK" href="https://www.digikey.hk/zh/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-GR" href="https://www.digikey.gr/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="fr-FR" href="https://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-FR" href="https://www.digikey.fr/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="de-DE" href="https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="en-DE" href="https://www.digikey.de/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><link rel="alternate" hreflang="zh-CN" href="https://www.digikey.com.cn/zh/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" /><meta name="digikey.fss.guid" content="{5051CCD5-8E58-4575-9694-0630068EFFA0}" /><meta name="digikey.fss.site" content="IN" /><meta name="digikey.fss.language" content="en" /><meta name="digikey.fss.date" content="-62135596800000" />
+        
+        <title>
+            4 Band Resistor Color Code Calculator and Chart | DigiKey Electronics
+        </title>
+        <style type="text/css">.calculator-input {
+	position: relative;
+	display: block;
+	width: 335px;
+	margin: 0px 10px 25px 4px;
+}
+.rtl .calculator-input {
+	position: relative;
+	display: block;
+	width: 335px;
+	margin: 0px 4px 25px 10px;
+}
+.res-select {
+	position: absolute;
+	right: 0;
+	left: 0;
+	background-color: #f1f1f1;
+	border: solid 1px #999;
+	height: 32px;
+	padding: 8px 8px 2px 8px;
+	box-sizing: border-box;
+	border-radius: 4px 0px 0px 4px;
+	font-weight: bold;
+	margin-left: -4px;
+	width: 100px;
+}
+.rtl .res-select {
+	position: absolute;
+	right: 0;
+	left: 0;
+	background-color: #f1f1f1;
+	border: solid 1px #999;
+	height: 32px;
+	padding: 8px 8px 2px 8px;
+	box-sizing: border-box;
+	border-radius: 0px 4px 4px 0px;
+	font-weight: bold;
+	margin-right: -4px;
+	width: 100px;
+}
+.calculator-input .selectColor dl {
+	border-radius: 0px 4px 4px 0px;
+	border-top: solid 1px #999;
+	border-right: solid 1px #999;
+	border-bottom: solid 1px #999;
+	border-left: none;
+	padding: 6px;
+	box-shadow: none;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	height: 32px;
+	font-size: 14px;
+	background-repeat: no-repeat;
+	background-size: 20px;
+	background-position: 5px 5px;
+	padding-left: 100px;
+	font-weight: bold;
+}
+.rtl .calculator-input .selectColor dl {
+	border-radius: 4px 0px 0px 4px;
+	border-top: solid 1px #999;
+	border-left: solid 1px #999;
+	border-bottom: solid 1px #999;
+	border-right: none;
+	padding: 6px;
+	box-shadow: none;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	height: 32px;
+	font-size: 14px;
+	background-repeat: no-repeat;
+	background-size: 20px;
+	background-position: 5px 5px;
+	padding-right: 100px;
+	font-weight: bold;
+}
+.current {
+	font-size: 14px;
+	border: solid 1px #999;
+	border-radius: 4px;
+	padding: 6px;
+	width: 325px;
+	background-color: #eee;
+	margin-bottom: 20px;
+}
+.label {
+	float: right;
+}
+.rtl .label {
+	float: left;
+}
+.dropdown dt {
+	padding: 0px 8px 0px 8px;
+}
+.dropdown dd, .dropdown ul {
+	margin: 0px;
+	padding: 0px;
+}
+.dropdown dd {
+	position: relative;
+}
+.dropdown a, .dropdown a:visited {
+	color: #000;
+	text-decoration: none;
+	outline: none;
+}
+.dropdown dt a:hover {
+	color: #000;
+}
+.dropdown dt {
+	display: block;
+	padding-right: 8px;
+	cursor: pointer;
+}
+.dropdown dt a span {
+	cursor: pointer;
+	display: block;
+	padding-left: 10px;
+}
+.dropdown dd ul {
+	background: #fff none repeat scroll 0 0;
+	border: 1px solid #ddd;
+	display: none;
+	position: absolute;
+	width: 100%;
+	list-style: none;
+	float: right;
+	cursor: pointer;
+	z-index: 999;
+}
+.dropdown span.value {
+	display: none;
+}
+.dropdown dd ul li {
+	padding: 5px 8px 5px 8px;
+	display: block;
+}
+.dropdown dd ul li:hover {
+	background-color: #ccc;
+}
+.dropdown img {
+	margin-right: 5px;
+	width: 5%;
+}
+.rtl .dropdown img {
+	margin-left: 5px;
+	width: 5%;
+}
+.colorvisibility {
+	display: none;
+}
+.rte-crumbs {
+	padding:0 !important;
+}
+.calcResult span {
+	display: block;
+}
+.calculator {
+	display: block;
+}
+.calculator-description h2 {
+	display: none;
+}
+.calcResults {
+	display: flex;
+	width:100%;
+}
+.calcResults div {
+	flex: auto;
+	text-align: center;
+	width: 100%;
+}
+.calcResults a {
+	display: block;
+	clear: both;
+}
+.calcResults div a img {
+	border: none;
+	height:64px;
+	width:64px;
+}
+.selector {
+	display: flex;
+	flex-wrap: wrap;
+}
+.selector div {
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+.related-resistors {
+	display: flex;
+}
+.related-products {
+	width: 48%;
+}
+.related-products h2 {
+	background-color: #333;
+	color: #fff;
+	padding: 5px;
+	text-align: center;
+	border: solid 1px #ccc;
+}
+.related-products ul {
+	display: table;
+	margin: 0;
+	padding: 0;
+}
+.related-products ul li {
+	float: left;
+	display: list-item;
+	padding: 0px;
+	width: 48%;
+	padding-right: 2%;
+	list-style: none;
+	margin: 0px;
+}
+.calcViewResults {
+	text-align: center;
+	padding: 5px;
+	font-weight: bold;
+}
+.resCalcSearch {
+	float: right;
+}
+.rtl .resCalcSearch {
+	float: left;
+}
+.resCalcSearch a {
+	text-decoration: none;
+	color: black;
+}
+#language-toggle {
+	padding:25px 0 0 0;
+}
+@media screen and (max-width: 1100px) {
+	.related-products ul li {
+		width: 100%;
+		padding: 0%;
+		list-style: none;
+		margin: 0px;
+	}
+}
+@media screen and (max-width: 600px) {
+	.related-resistors {
+		display: block;
+	}
+	.related-products ul li {
+		width: 100%;
+		padding: 0%;
+		list-style: none;
+		margin: 0px;
+	}
+	.related-products {
+		width: 100%;
+	}
+	.current {
+		width: 101%;
+		box-sizing: border-box;
+	}
+	.calculator-input {
+		width:100%;
+	}
+	.rtl .calculator-input {
+		width:100%;
+	}
+	.calculator input {
+		max-width:100%;
+	}
+	.calculator-wrapper {
+		display:flex;
+		flex-direction:column-reverse;
+	}
+	.calculator-description h2 {
+		display: block;
+	}
+	.calcResults {
+		display: inline-block;
+		width:100%;
+	}
+	.calcResult span {
+		display: flex;
+	}
+	.calcResults div {
+		text-align: left;
+		clear:both;
+	}
+	.rtl .calcResults div {
+		text-align: right;
+	}
+	.calcResults div a img {
+		border: none;
+		height:64px;
+		width:64px;
+		float: left;
+		padding: 0px 10px 10px 0px;
+	}
+	.rtl .calcResults div img {
+		float: right;
+		margin-right:0;
+		margin-left:10px;
+	}
+	.calcResults a {
+		display: inline;
+		clear: both;
+	}
+	.selection {
+		margin-right: 0px;
+	}
+	.calculator {
+		display: block;
+	}
+	.calculator select {
+		border: 0px 4px 4px 0px;
+		width: 60%;
+	}
+	.dropdown img {
+		margin-right: 5px;
+		width: 10px;
+	}
+.dropdown dd ul li {
+	padding: 8px 8px 8px 8px;
+	display: block;
+}
+}</style><link rel="stylesheet" type="text/css" href="/-/media/designer/Global/fonts/fonts.css" /><link rel="stylesheet" type="text/css" href="//www.digikey.in/-/media/Designer/Global/MVC/CSS/global.css?la=en-IN&amp;ts=8abf3bf5-cd55-488b-8816-207271252b75" /><link rel="stylesheet" type="text/css" href="//www.digikey.in/-/media/Designer/Header/Mvc/CSS/header.css?la=en-IN&amp;ts=b4abd1cf-9594-4beb-a31f-c1792d3465ac" /><link rel="stylesheet" type="text/css" href="//www.digikey.in/-/media/Files/Global/Fancybox/jquery.fancybox.css?ts=3597ddbf-2a6d-4a9b-9708-467ffb3506e5" /><style type="text/css">.rtl #fancybox-title-float-wrap {direction:ltr}
+.rtl #fancybox-title-float-main {direction:rtl}</style><link rel="stylesheet" type="text/css" href="//www.digikey.in/-/media/Designer/Footer/Mvc/CSS/footer.css?la=en-IN&amp;ts=88d05799-df39-4b94-84ba-80cce24cf51b" />
+    </head>
+    <body itemscope itemtype="http://schema.org/WebPage" class="ltr">
+        
+
+
+
+
+<div id="header" class="header nav-down resp" cookie-tracking="header_flag=link">
+    <div class="pushmenu__overlay hidden  pushmenu__close" id="menu_overlay"></div>
+    <div class="header__left">
+        <span id="toggle_nav" class="header__resp-button button--pushmenu pushmenu__open">
+            <img src="//www.digikey.in/-/media/Images/Global/Buttons/hamburger.png?la=en-IN&amp;ts=beb05939-0193-4203-ad37-3a9b774424bb">
+        </span>
+        <a href="/en">
+            <img src="//www.digikey.in/-/media/Images/Header/logo_dk.png?la=en-IN&amp;ts=5b6b81dc-74b3-428d-8251-c96efbebec89&amp;h=125&amp;w=233&amp;la=en-IN" class="header__logo" alt="Digi-Key Electronics - Electronic Components Distributor" />
+        </a>
+        <span class="header__resp-button button--mydk">
+            <a href="https://www.digikey.in/classic/registereduser/mydigikey.aspx?site=IN&amp;lang=en">
+                <img src="//www.digikey.in/-/media/Images/Global/Buttons/gray-profile.png?la=en-IN&amp;ts=c8781a4a-ea5b-490d-8adc-5ddcba7521c8">
+            </a>
+        </span>
+        <span class="header__resp-button button--cart">
+            <a href="https://www.digikey.in/classic/Ordering/AddPart.aspx?lang=en">
+                <img src="//www.digikey.in/-/media/Images/Global/Buttons/gray-cart.png?la=en-IN&amp;ts=d45ef06c-950f-4a72-86e2-ddceb5ca8a4f">
+                <span class="toggle--cart-total"></span>
+            </a>
+        </span>
+    </div>
+    <div class="header__middle">
+        
+<div class="header__searchbar header-search-panel">
+        <div class="searchbox-mask"></div>
+        <div class="searchbox-inner">
+            <div class="searchbox-inner-title">
+                Advanced Search<span>X</span>
+            </div>
+            <div class="searchbox-inner-categories">
+                <select class="header__searchtype-wrapper product-search-categories search-product-categories" id="header-search-type">
+                    <option selected="selected" value="/products/en?keywords={0}" data-name="Ntt">All Products</option><option value="/en/content-search?t={0}" data-name="Ntt">All Content</option><option value="/products/en/audio-products/10?keywords={0}" data-name="Ntt">Audio Products</option><option value="/products/en/battery-products/6?keywords={0}" data-name="Ntt">Battery Products</option><option value="/products/en/boxes-enclosures-racks/27?keywords={0}" data-name="Ntt">Boxes Enclosures Racks</option><option value="/products/en/cable-assemblies/21?keywords={0}" data-name="Ntt">Cable Assemblies</option><option value="/products/en/cables-wires-management/23?keywords={0}" data-name="Ntt">Cables Wires Management</option><option value="/products/en/cables-wires/22?keywords={0}" data-name="Ntt">Cables Wires</option><option value="/products/en/capacitors/3?keywords={0}" data-name="Ntt">Capacitors</option><option value="/products/en/circuit-protection/9?keywords={0}" data-name="Ntt">Circuit Protection</option><option value="/products/en/computers-office-components-accessories/38?keywords={0}" data-name="Ntt">Computers Office Components Accessories</option><option value="/products/en/connectors-interconnects/20?keywords={0}" data-name="Ntt">Connectors Interconnects</option><option value="/products/en/crystals-oscillators/12?keywords={0}" data-name="Ntt">Crystals and Oscillators</option><option value="/products/en/development-boards-kit-programmers/33?keywords={0}" data-name="Ntt">Development Boards, Kits, Programmers</option><option value="/products/en/discrete-semiconductor-products/19?keywords={0}" data-name="Ntt">Discrete Semiconductor Products</option><option value="/products/en/embedded-computers/45?keywords={0}" data-name="Ntt">Embedded Computers</option><option value="/products/en/fans-thermal-management/16?keywords={0}" data-name="Ntt">Fans Thermal Management</option><option value="/products/en/filters/36?keywords={0}" data-name="Ntt">Filters</option><option value="/products/en/hardware-fasteners-accessories/26?keywords={0}" data-name="Ntt">Hardware Fasteners Accessories</option><option value="/products/en/inductors-coils-chokes/4?keywords={0}" data-name="Ntt">Inductors Coils Chokes</option><option value="/products/en/industrial-controls-meters/34?keywords={0}" data-name="Ntt">Industrial Controls Meters</option><option value="/products/en/integrated-circuits-ics/32?keywords={0}" data-name="Ntt">Integrated Circuits</option><option value="/products/en/isolators/39?keywords={0}" data-name="Ntt">Isolaters</option><option value="/products/en/kits/31?keywords={0}" data-name="Ntt">Kits</option><option value="/products/en/line-protection-distribution-backups/35?keywords={0}" data-name="Ntt">Line Protection Distribution Backups</option><option value="/products/en/magnetics-transformer-inductor-components/46?keywords={0}" data-name="Ntt">Magnetics Transformer Inductor Components</option><option value="/products/en/maker-diy-educational/47?keywords={0}" data-name="Ntt">Maker/DIY, Educational</option><option value="/products/en/memory-cards-modules/24?keywords={0}" data-name="Ntt">Memory Cards Modules</option><option value="/products/en/motors-solenoids-driver-boards-modules/13?keywords={0}" data-name="Ntt">Motors Solenoids Driver Boards Modules</option><option value="/products/en/networking-solutions/44?keywords={0}" data-name="Ntt">Networking Solutions</option><option value="/products/en/optical-inspection-equipment/42?keywords={0}" data-name="Ntt">Optical Inspection Equipment</option><option value="/products/en/optoelectronics/7?keywords={0}" data-name="Ntt">Optoelectronics </option><option value="/products/en/potentiometers-variable-resistors/5?keywords={0}" data-name="Ntt">Potentiometers Variable Resistors</option><option value="/products/en/power-supplies-board-mount/43?keywords={0}" data-name="Ntt">Power Supplies Board Mount</option><option value="/products/en/power-supplies-external-internal-off-board/8?keywords={0}" data-name="Ntt">Power Supplies External Internal Off-Board</option><option value="/products/en/prototyping-products/30?keywords={0}" data-name="Ntt">Prototyping Products</option><option value="/products/en/relays/14?keywords={0}" data-name="Ntt">Relays</option><option value="/products/en/resistors/2?keywords={0}" data-name="Ntt">Resistors</option><option value="/products/en/rf-if-and-rfid/37?keywords={0}" data-name="Ntt">RF IF and RFID</option><option value="/products/en/sensors-transducers/25?keywords={0}" data-name="Ntt">Sensors Transducers</option><option value="/products/en/soldering-desoldering-rework-products/18?keywords={0}" data-name="Ntt">Soldering Desoldering Rework Products</option><option value="/products/en/static-control-esd-clean-room-products/28?keywords={0}" data-name="Ntt">Static Control ESD Clean Room Products</option><option value="/products/en/switches/15?keywords={0}" data-name="Ntt">Switches</option><option value="/products/en/tapes-adhesives/40?keywords={0}" data-name="Ntt">Tape Adhesives</option><option value="/products/en/test-and-measurement/29?keywords={0}" data-name="Ntt">Test and Measurement</option><option value="/products/en/tools/17?keywords={0}" data-name="Ntt">Tools</option><option value="/products/en/transformers/11?keywords={0}" data-name="Ntt">Transformers</option>
+                </select>
+            </div>
+            <div class="searchbox-inner-searchtext">
+                <input name="keywords" class="header__searchinput dkdirchanger product-search-text search-textbox" type="text" autocomplete="off">
+                <span>Advanced</span>
+            </div>
+            <div class="searchbox-inner-searchbutton">
+                <button class="search-button" type="button" value="" id="header-search-button" cookie-event="ref_page_event=Initiate%20Search;header_flag=link">&#xf02e;</button>
+            </div>
+            <div class="searchbox-inner-mfg">
+                <select class="product-search-categories search-mfg-dropdown-list">
+                        <option value="">All Manufacturers</option>
+                        <option value="&amp;v=19">3M</option>
+                        <option value="&amp;v=1613">4D Systems</option>
+                        <option value="&amp;v=59">Aavid Thermalloy</option>
+                        <option value="&amp;v=535">Abracon Corporation</option>
+                        <option value="&amp;v=1891">Acconeer AB</option>
+                        <option value="&amp;v=134">ACL Staticide, Inc.</option>
+                        <option value="&amp;v=1488">Active-Semi International, Inc.</option>
+                        <option value="&amp;v=1528">Adafruit Industries</option>
+                        <option value="&amp;v=1554">Adapteva Inc.</option>
+                        <option value="&amp;v=1265">Adesto Technologies</option>
+                        <option value="&amp;v=1014">Advanced Linear Devices, Inc.</option>
+                        <option value="&amp;v=684">Advanced Thermal Solutions Inc</option>
+                        <option value="&amp;v=1588">Advantech</option>
+                        <option value="&amp;v=1717">Aearo Technologies LLC</option>
+                        <option value="&amp;v=974">AKM Semiconductor Inc</option>
+                        <option value="&amp;v=1851">AK-NORD GmbH</option>
+                        <option value="&amp;v=620">Allegro MicroSystems, LLC</option>
+                        <option value="&amp;v=1450">Alliance Memory, Inc.</option>
+                        <option value="&amp;v=1817">Alliance Sensors Group a div of HG Schaevitz LLC</option>
+                        <option value="&amp;v=442">All Sensors Corporation</option>
+                        <option value="&amp;v=785">Alpha &amp; Omega Semiconductor Inc</option>
+                        <option value="&amp;v=216">Alpha Wire</option>
+                        <option value="&amp;v=1920">Altech Corporation</option>
+                        <option value="&amp;v=544">Intel&#174; FPGAs</option>
+                        <option value="&amp;v=1917">AMBER wireless GmbH</option>
+                        <option value="&amp;v=1822">Ambiq Micro, Inc.</option>
+                        <option value="&amp;v=288">American Electrical Inc</option>
+                        <option value="&amp;v=1284">American Technical Ceramics</option>
+                        <option value="&amp;v=570">Ametherm</option>
+                        <option value="&amp;v=419">Amgis, LLC</option>
+                        <option value="&amp;v=8010">Amphenol Corporation</option>
+                        <option value="&amp;v=45">Amphenol Advanced Sensors</option>
+                        <option value="&amp;v=1178">Amphenol Aerospace Operations</option>
+                        <option value="&amp;v=1818">Amphenol Anytek</option>
+                        <option value="&amp;v=609">Amphenol FCI</option>
+                        <option value="&amp;v=339">Amphenol Industrial Operations</option>
+                        <option value="&amp;v=1754">Amphenol LTW</option>
+                        <option value="&amp;v=623">Amphenol PCD</option>
+                        <option value="&amp;v=115">Amphenol RF Division</option>
+                        <option value="&amp;v=889">Amphenol Sine Systems Corp</option>
+                        <option value="&amp;v=1819">Amphenol Spectra-Strip</option>
+                        <option value="&amp;v=1678">Amphenol SV Microwave</option>
+                        <option value="&amp;v=1603">Ampleon</option>
+                        <option value="&amp;v=961">ams</option>
+                        <option value="&amp;v=681">Amulet Technologies LLC</option>
+                        <option value="&amp;v=505">Analog Devices Inc</option>
+                        <option value="&amp;v=1173">Anaren</option>
+                        <option value="&amp;v=1744">AnDAPT</option>
+                        <option value="&amp;v=627">Antenova</option>
+                        <option value="&amp;v=1582">Apacer</option>
+                        <option value="&amp;v=679">APEM Inc.</option>
+                        <option value="&amp;v=1240">Apex Microtechnology</option>
+                        <option value="&amp;v=72">Apex Tool Group</option>
+                        <option value="&amp;v=197">API Delevan Inc</option>
+                        <option value="&amp;v=1171">API Technologies Corp</option>
+                        <option value="&amp;v=335">APM Hexseal</option>
+                        <option value="&amp;v=273">Ohmite</option>
+                        <option value="&amp;v=399">KEMET</option>
+                        <option value="&amp;v=1050">Arduino</option>
+                        <option value="&amp;v=43">Aries Electronics</option>
+                        <option value="&amp;v=685">ARM Keil</option>
+                        <option value="&amp;v=748">Artaflex Inc</option>
+                        <option value="&amp;v=454">Artesyn Embedded Technologies</option>
+                        <option value="&amp;v=123">Assmann WSW Components</option>
+                        <option value="&amp;v=358">Astro Tool Corp</option>
+                        <option value="&amp;v=313">Atmel (Microchip Technology)</option>
+                        <option value="&amp;v=1710">Atop Technologies</option>
+                        <option value="&amp;v=1282">ATP Electronics, Inc.</option>
+                        <option value="&amp;v=243">Aven Tools</option>
+                        <option value="&amp;v=1543">Avery Dennison</option>
+                        <option value="&amp;v=478">AVX Corporation</option>
+                        <option value="&amp;v=1790">Azoteq</option>
+                        <option value="&amp;v=1932">Bantam Tools</option>
+                        <option value="&amp;v=522">B B Battery</option>
+                        <option value="&amp;v=1165">B+B SmartWorx, Inc.</option>
+                        <option value="&amp;v=8126">BeagleBoard.org</option>
+                        <option value="&amp;v=1724">Sensata Technologies – BEI Sensors</option>
+                        <option value="&amp;v=8033">Bel Corporation</option>
+                        <option value="&amp;v=135">Belden</option>
+                        <option value="&amp;v=507">Bel Fuse Inc</option>
+                        <option value="&amp;v=179">Bel Power Solutions</option>
+                        <option value="&amp;v=211">Bergquist</option>
+                        <option value="&amp;v=186">B&amp;F Fastener Supply</option>
+                        <option value="&amp;v=492">Bivar Inc</option>
+                        <option value="&amp;v=22">B&amp;K Precision</option>
+                        <option value="&amp;v=1495">Bluecreation</option>
+                        <option value="&amp;v=978">Bluetechnix GmbH</option>
+                        <option value="&amp;v=867">BNS Solutions</option>
+                        <option value="&amp;v=1723">Bosch Connected Devices and Solutions</option>
+                        <option value="&amp;v=828">Bosch Sensortec</option>
+                        <option value="&amp;v=118">Bourns Inc.</option>
+                        <option value="&amp;v=1919">Breadware, Inc.</option>
+                        <option value="&amp;v=976">Bridgelux</option>
+                        <option value="&amp;v=516">Broadcom Limited</option>
+                        <option value="&amp;v=377">Bud Industries</option>
+                        <option value="&amp;v=708">Bulgin</option>
+                        <option value="&amp;v=296">Texas Instruments</option>
+                        <option value="&amp;v=683">Caddock Electronics Inc</option>
+                        <option value="&amp;v=1768">Cal Test Electronics</option>
+                        <option value="&amp;v=317">Cantherm</option>
+                        <option value="&amp;v=191">Capital Advanced Technologies</option>
+                        <option value="&amp;v=1066">Carclo Technical Plastics</option>
+                        <option value="&amp;v=370">Cardinal Components Inc.</option>
+                        <option value="&amp;v=432">Carling Technologies</option>
+                        <option value="&amp;v=1864">Carlo Gavazzi</option>
+                        <option value="&amp;v=811">Murata Power Solutions Inc</option>
+                        <option value="&amp;v=51">CEL California Eastern Labs</option>
+                        <option value="&amp;v=1514">Central Semiconductor Corp.</option>
+                        <option value="&amp;v=75">Chemtronics</option>
+                        <option value="&amp;v=85">ZF Electronics</option>
+                        <option value="&amp;v=1644">Cherry Americas LLC</option>
+                        <option value="&amp;v=315">Chip Quik Inc</option>
+                        <option value="&amp;v=1040">CH Products</option>
+                        <option value="&amp;v=1233">Cicoil</option>
+                        <option value="&amp;v=116">Cinch Connectivity Solutions</option>
+                        <option value="&amp;v=811">Murata Power Solutions Inc</option>
+                        <option value="&amp;v=598">Cirrus Logic Inc</option>
+                        <option value="&amp;v=1642">Citizen Electronics Co., Ltd.</option>
+                        <option value="&amp;v=300">Citizen Finedevice Co., Ltd.</option>
+                        <option value="&amp;v=108">C&amp;K</option>
+                        <option value="&amp;v=480">Honeywell Sensing and Productivity Solutions</option>
+                        <option value="&amp;v=488">ON Semiconductor</option>
+                        <option value="&amp;v=1175">CnC Tech</option>
+                        <option value="&amp;v=25">Comair Rotron</option>
+                        <option value="&amp;v=641">Comchip Technology</option>
+                        <option value="&amp;v=1835">Comus International</option>
+                        <option value="&amp;v=596">Power Integrations</option>
+                        <option value="&amp;v=626">CONEC</option>
+                        <option value="&amp;v=222">Connor-Winfield</option>
+                        <option value="&amp;v=563">Nidec Copal Electronics</option>
+                        <option value="&amp;v=338">Cornell Dubilier Electronics (CDE)</option>
+                        <option value="&amp;v=1008">Inphi Corporation</option>
+                        <option value="&amp;v=1776">Cosel Co Ltd</option>
+                        <option value="&amp;v=306">Coto Technology</option>
+                        <option value="&amp;v=90">Cree Inc</option>
+                        <option value="&amp;v=1057">Critical Link</option>
+                        <option value="&amp;v=582">CR Magnetics Inc</option>
+                        <option value="&amp;v=966">Crouzet Controls</option>
+                        <option value="&amp;v=1848">Crowd Supply</option>
+                        <option value="&amp;v=172">Sensata Technologies – Crydom</option>
+                        <option value="&amp;v=744">Crystek Corporation</option>
+                        <option value="&amp;v=660">Qualcomm</option>
+                        <option value="&amp;v=101">C-TON Industries</option>
+                        <option value="&amp;v=119">CTS Electronic Components</option>
+                        <option value="&amp;v=102">CUI Inc</option>
+                        <option value="&amp;v=364">Curtis Industries</option>
+                        <option value="&amp;v=267">Curtis Instruments Inc</option>
+                        <option value="&amp;v=429">Custom Computer Services Inc (CCS)</option>
+                        <option value="&amp;v=32">CW Industries</option>
+                        <option value="&amp;v=725">Cynergy3</option>
+                        <option value="&amp;v=428">Cypress Semiconductor Corp</option>
+                        <option value="&amp;v=49">Daburn Electronics</option>
+                        <option value="&amp;v=1857">Datawave Wireless</option>
+                        <option value="&amp;v=1525">DAVE Embedded Systems</option>
+                        <option value="&amp;v=1722">Davies Molding, LLC.</option>
+                        <option value="&amp;v=1479">Decawave Limited</option>
+                        <option value="&amp;v=8060">Delta Products Corporation</option>
+                        <option value="&amp;v=1144">Delta Electronics EMI</option>
+                        <option value="&amp;v=603">Delta Electronics</option>
+                        <option value="&amp;v=941">Delta Product Groups Power</option>
+                        <option value="&amp;v=16">Desco</option>
+                        <option value="&amp;v=1738">DFRobot</option>
+                        <option value="&amp;v=350">Dialight</option>
+                        <option value="&amp;v=1564">Dialog Semiconductor</option>
+                        <option value="&amp;v=423">Knowles</option>
+                        <option value="&amp;v=602">Digi International</option>
+                        <option value="&amp;v=1286">Digilent, Inc.</option>
+                        <option value="&amp;v=586">Digital View, Inc.</option>
+                        <option value="&amp;v=31">Diodes Incorporated</option>
+                        <option value="&amp;v=1756">Displaytech</option>
+                        <option value="&amp;v=813">DLP Design, Inc.</option>
+                        <option value="&amp;v=1018">Dresden Elektronik</option>
+                        <option value="&amp;v=1094">Dynastream Innovations Inc</option>
+                        <option value="&amp;v=154">Menda/EasyBraid</option>
+                        <option value="&amp;v=283">Eaton</option>
+                        <option value="&amp;v=381">ebm-papst Inc.</option>
+                        <option value="&amp;v=1499">Echelon Corporation</option>
+                        <option value="&amp;v=50">ECS Inc</option>
+                        <option value="&amp;v=151">EDAC Inc</option>
+                        <option value="&amp;v=1272">E Ink Corporation</option>
+                        <option value="&amp;v=478">AVX Corporation</option>
+                        <option value="&amp;v=1413">Electric Imp Inc</option>
+                        <option value="&amp;v=480">Honeywell Sensing and Productivity Solutions</option>
+                        <option value="&amp;v=1481">Electronic Assembly GmbH</option>
+                        <option value="&amp;v=451">Electroswitch</option>
+                        <option value="&amp;v=604">Elna America</option>
+                        <option value="&amp;v=982">Embedded Artists</option>
+                        <option value="&amp;v=547">Energizer Battery Company</option>
+                        <option value="&amp;v=842">EnerSys</option>
+                        <option value="&amp;v=1733">enmo Technologies</option>
+                        <option value="&amp;v=1084">Enocean</option>
+                        <option value="&amp;v=917">EPC</option>
+                        <option value="&amp;v=495">EPCOS</option>
+                        <option value="&amp;v=114">Epson</option>
+                        <option value="&amp;v=483">Equinox Technologies</option>
+                        <option value="&amp;v=1800">ERP Power</option>
+                        <option value="&amp;v=145">Essentra Components</option>
+                        <option value="&amp;v=141">E-Switch</option>
+                        <option value="&amp;v=302">E-T-A</option>
+                        <option value="&amp;v=939">Ethertronics Inc</option>
+                        <option value="&amp;v=448">Infineon Technologies</option>
+                        <option value="&amp;v=1080">Everlight Electronics Co Ltd</option>
+                        <option value="&amp;v=819">Everspin Technologies, Inc.</option>
+                        <option value="&amp;v=1016">Exar Corporation</option>
+                        <option value="&amp;v=1601">Excelitas Technologies</option>
+                        <option value="&amp;v=633">Excelsys Technologies Ltd.</option>
+                        <option value="&amp;v=461">E-Z-Hook</option>
+                        <option value="&amp;v=261">Fairchild (ON Semiconductor)</option>
+                        <option value="&amp;v=1934">Fair-Rite Products Corp.</option>
+                        <option value="&amp;v=1914">Fanstel Corp.</option>
+                        <option value="&amp;v=935">FDK America Inc</option>
+                        <option value="&amp;v=1706">Fedco Batteries</option>
+                        <option value="&amp;v=1779">FERROXCUBE</option>
+                        <option value="&amp;v=775">Finisar Corporation</option>
+                        <option value="&amp;v=510">Flambeau, Inc.</option>
+                        <option value="&amp;v=1577">FLIR</option>
+                        <option value="&amp;v=1785">Formerica Optoelectronics Inc.</option>
+                        <option value="&amp;v=1685">Foxconn Optical Interconnect Technologies</option>
+                        <option value="&amp;v=631">Fox Electronics</option>
+                        <option value="&amp;v=647">Free2Move</option>
+                        <option value="&amp;v=375">NXP Semiconductors</option>
+                        <option value="&amp;v=1219">Fremont Micro Devices USA</option>
+                        <option value="&amp;v=865">Fujitsu Electronics America, Inc.</option>
+                        <option value="&amp;v=622">Future Designs, Inc.</option>
+                        <option value="&amp;v=768">FTDI, Future Technology Devices International Ltd</option>
+                        <option value="&amp;v=1420">GainSpan Corporation</option>
+                        <option value="&amp;v=183">GC Electronics</option>
+                        <option value="&amp;v=555">GE Critical Power</option>
+                        <option value="&amp;v=42">General Cable/Carol Brand</option>
+                        <option value="&amp;v=8026">Vishay Corporation</option>
+                        <option value="&amp;v=1242">GeneSiC Semiconductor</option>
+                        <option value="&amp;v=1711">GHI Electronics, LLC</option>
+                        <option value="&amp;v=1560">Global Power Technologies Group</option>
+                        <option value="&amp;v=1769">Global Specialties</option>
+                        <option value="&amp;v=136">Grayhill, Inc.</option>
+                        <option value="&amp;v=131">Greenlee Communications</option>
+                        <option value="&amp;v=164">Hammond Manufacturing</option>
+                        <option value="&amp;v=1195">HARTING</option>
+                        <option value="&amp;v=952">Harwin Inc</option>
+                        <option value="&amp;v=1036">H&amp;D Wireless AB</option>
+                        <option value="&amp;v=1503">Heatron, Inc.</option>
+                        <option value="&amp;v=1900">Helium</option>
+                        <option value="&amp;v=1436">HellermannTyton</option>
+                        <option value="&amp;v=1000">Loctite</option>
+                        <option value="&amp;v=1759">Heraeus Sensor Technology USA</option>
+                        <option value="&amp;v=1888">Hillcrest Labs</option>
+                        <option value="&amp;v=26">Hirose Electric Co Ltd</option>
+                        <option value="&amp;v=1797">Hirschmann</option>
+                        <option value="&amp;v=505">Analog Devices Inc</option>
+                        <option value="&amp;v=1441">nVent Hoffman</option>
+                        <option value="&amp;v=1887">Hologram</option>
+                        <option value="&amp;v=1245">Holt Integrated Circuits Inc</option>
+                        <option value="&amp;v=342">Honeywell Microelectronics &amp; Precision Sensors</option>
+                        <option value="&amp;v=480">Honeywell Sensing and Productivity Solutions</option>
+                        <option value="&amp;v=854">IAR Systems Software Inc</option>
+                        <option value="&amp;v=166">Inventus Power</option>
+                        <option value="&amp;v=1885">IDEC</option>
+                        <option value="&amp;v=1572">Illinois Capacitor</option>
+                        <option value="&amp;v=1082">Illumra</option>
+                        <option value="&amp;v=107">Industrial Fiberoptics</option>
+                        <option value="&amp;v=448">Infineon Technologies</option>
+                        <option value="&amp;v=1693">Initial State Technologies, Inc.</option>
+                        <option value="&amp;v=1108">Innovasic Semiconductor</option>
+                        <option value="&amp;v=1830">Inolux</option>
+                        <option value="&amp;v=1786">Insight SiP</option>
+                        <option value="&amp;v=1647">Inspired LED</option>
+                        <option value="&amp;v=800">IDT, Integrated Device Technology Inc</option>
+                        <option value="&amp;v=706">ISSI, Integrated Silicon Solution Inc.</option>
+                        <option value="&amp;v=544">Intel&#174; FPGAs</option>
+                        <option value="&amp;v=1079">Intematix Corporation</option>
+                        <option value="&amp;v=1027">Interlink Electronics</option>
+                        <option value="&amp;v=20">Intersil</option>
+                        <option value="&amp;v=1428">TDK InvenSense</option>
+                        <option value="&amp;v=1475">Inventek Systems</option>
+                        <option value="&amp;v=1937">Io Audio Technologies</option>
+                        <option value="&amp;v=111">I.O. Interconnect</option>
+                        <option value="&amp;v=1923">IQD Frequency Products</option>
+                        <option value="&amp;v=653">IRTouch Systems</option>
+                        <option value="&amp;v=58">Isocom Components</option>
+                        <option value="&amp;v=1003">ITT Interconnect Solutions</option>
+                        <option value="&amp;v=238">IXYS</option>
+                        <option value="&amp;v=212">IXYS Integrated Circuits Division</option>
+                        <option value="&amp;v=1898">IXYS RF</option>
+                        <option value="&amp;v=670">JAE Electronics</option>
+                        <option value="&amp;v=1670">Jinlong Machinery &amp; Electronics Co. Ltd.</option>
+                        <option value="&amp;v=289">JKL Components Corp.</option>
+                        <option value="&amp;v=709">Johanson Dielectrics, Inc.</option>
+                        <option value="&amp;v=712">Johanson Technology Inc</option>
+                        <option value="&amp;v=40">OK Industries/Div of Jonard Ind Corp</option>
+                        <option value="&amp;v=455">JST Sales America Inc</option>
+                        <option value="&amp;v=78">Judco Manufacturing Inc</option>
+                        <option value="&amp;v=1861">Sensata Technologies – Kavlico Pressure Sensors</option>
+                        <option value="&amp;v=399">KEMET</option>
+                        <option value="&amp;v=1767">Kennedy Labs</option>
+                        <option value="&amp;v=117">Kester Solder</option>
+                        <option value="&amp;v=36">Keystone Electronics</option>
+                        <option value="&amp;v=1621">Khatod</option>
+                        <option value="&amp;v=226">Kilo International</option>
+                        <option value="&amp;v=754">Kingbright Company LLC</option>
+                        <option value="&amp;v=1742">Klein Tools, Inc.</option>
+                        <option value="&amp;v=423">Knowles</option>
+                        <option value="&amp;v=1761">Knowles DLI</option>
+                        <option value="&amp;v=1763">Knowles NOVACAP</option>
+                        <option value="&amp;v=1674">Knowles Voltronics</option>
+                        <option value="&amp;v=1253">KYOCERA Corporation</option>
+                        <option value="&amp;v=73">Kyocera International – Display Division</option>
+                        <option value="&amp;v=776">Laird - Embedded Wireless Solutions</option>
+                        <option value="&amp;v=8049">Laird Corporation</option>
+                        <option value="&amp;v=994">Laird Technologies IAS</option>
+                        <option value="&amp;v=903">Laird Technologies EMI</option>
+                        <option value="&amp;v=240">Laird-Signal Integrity Products</option>
+                        <option value="&amp;v=926">Laird Thermal Materials</option>
+                        <option value="&amp;v=1829">Lantronix</option>
+                        <option value="&amp;v=220">Lattice Semiconductor Corporation</option>
+                        <option value="&amp;v=1798">Leader Tech Inc.</option>
+                        <option value="&amp;v=788">LEDdynamics Inc</option>
+                        <option value="&amp;v=1537">LED Engin, Inc.</option>
+                        <option value="&amp;v=711">LEDiL</option>
+                        <option value="&amp;v=1124">LEMO</option>
+                        <option value="&amp;v=398">LEM USA, Inc.</option>
+                        <option value="&amp;v=521">Lighting Science Group Corporation</option>
+                        <option value="&amp;v=1434">Lime Microsystems Ltd</option>
+                        <option value="&amp;v=161">Linear Technology</option>
+                        <option value="&amp;v=1616">Link Labs</option>
+                        <option value="&amp;v=343">Linx Technologies Inc</option>
+                        <option value="&amp;v=160">Lite-On, Inc.</option>
+                        <option value="&amp;v=18">Littelfuse Inc</option>
+                        <option value="&amp;v=57">LMB Heeger Inc.</option>
+                        <option value="&amp;v=309">Logical Systems Inc.</option>
+                        <option value="&amp;v=460">Logic</option>
+                        <option value="&amp;v=1070">LSR (Laird - Embedded Wireless Solutions)</option>
+                        <option value="&amp;v=1942">LulzBot</option>
+                        <option value="&amp;v=1794">Lumberg Automation</option>
+                        <option value="&amp;v=67">Lumex Opto/Components Inc</option>
+                        <option value="&amp;v=1416">Lumileds</option>
+                        <option value="&amp;v=1214">Luminus Devices Inc</option>
+                        <option value="&amp;v=209">Luna Optoelectronics</option>
+                        <option value="&amp;v=109">Luxo</option>
+                        <option value="&amp;v=1465">MacomTechnology Solutions</option>
+                        <option value="&amp;v=1041">Macraigor Systems LLC</option>
+                        <option value="&amp;v=1092">Macronix</option>
+                        <option value="&amp;v=1530">Maestro Wireless Solutions</option>
+                        <option value="&amp;v=1518">Mag-LED Solutions</option>
+                        <option value="&amp;v=735">Magnasphere Corp</option>
+                        <option value="&amp;v=1890">Makeblock</option>
+                        <option value="&amp;v=458">Mallory Sonalert Products Inc</option>
+                        <option value="&amp;v=1125">Marktech Optoelectronics</option>
+                        <option value="&amp;v=1681">Marlow Industries, Inc.</option>
+                        <option value="&amp;v=227">Martel Electronics</option>
+                        <option value="&amp;v=1796">Marutsuelec</option>
+                        <option value="&amp;v=133">Master Appliance Co</option>
+                        <option value="&amp;v=635">Matrix Orbital</option>
+                        <option value="&amp;v=1863">MaxBotix Inc.</option>
+                        <option value="&amp;v=175">Maxim Integrated</option>
+                        <option value="&amp;v=602">Digi International</option>
+                        <option value="&amp;v=1182">Maxwell Technologies Inc</option>
+                        <option value="&amp;v=1751">McGraw-Hill Education</option>
+                        <option value="&amp;v=1866">MEAN WELL</option>
+                        <option value="&amp;v=1570">Mechatronics Fan Group</option>
+                        <option value="&amp;v=882">MEC Switches</option>
+                        <option value="&amp;v=1654">MegaChips Technology America Corp.</option>
+                        <option value="&amp;v=413">Melexis Technologies NV</option>
+                        <option value="&amp;v=61">MPD (Memory Protection Devices)</option>
+                        <option value="&amp;v=1267">Memsic Inc</option>
+                        <option value="&amp;v=1411">Mentor Graphics</option>
+                        <option value="&amp;v=1849">METZ CONNECT</option>
+                        <option value="&amp;v=473">MG Chemicals</option>
+                        <option value="&amp;v=1072">Micrium Inc</option>
+                        <option value="&amp;v=150">Microchip Technology</option>
+                        <option value="&amp;v=353">Micro Commercial Co</option>
+                        <option value="&amp;v=444">microEngineering Labs, Inc.</option>
+                        <option value="&amp;v=1033">Micro-Measurements (Division of Vishay Precision Group)</option>
+                        <option value="&amp;v=246">TDK Micronas</option>
+                        <option value="&amp;v=557">Micron Technology Inc</option>
+                        <option value="&amp;v=8035">Microsemi Corporation</option>
+                        <option value="&amp;v=1203">Microwave Technology Inc</option>
+                        <option value="&amp;v=997">Mide Technology Corporation</option>
+                        <option value="&amp;v=1471">MikroElektronika</option>
+                        <option value="&amp;v=54">Mill-Max Manufacturing Corp.</option>
+                        <option value="&amp;v=1096">MMB Networks</option>
+                        <option value="&amp;v=8093">Molex Corporation</option>
+                        <option value="&amp;v=1859">Monnit</option>
+                        <option value="&amp;v=1589">Monolithic Power Systems</option>
+                        <option value="&amp;v=314">Mueller Electric Co</option>
+                        <option value="&amp;v=591">Multi-Tech Systems Inc</option>
+                        <option value="&amp;v=490">Murata Electronics North America</option>
+                        <option value="&amp;v=811">Murata Power Solutions Inc</option>
+                        <option value="&amp;v=258">Nakagawa Manufacturing</option>
+                        <option value="&amp;v=644">NDK</option>
+                        <option value="&amp;v=730">Nearson Inc</option>
+                        <option value="&amp;v=1816">Neonode</option>
+                        <option value="&amp;v=589">NessCap Co Ltd</option>
+                        <option value="&amp;v=528">NetBurner Inc</option>
+                        <option value="&amp;v=470">Newava Technology Inc</option>
+                        <option value="&amp;v=757">Newhaven Display Intl</option>
+                        <option value="&amp;v=1727">Nexperia</option>
+                        <option value="&amp;v=493">Nichicon</option>
+                        <option value="&amp;v=1477">NimbeLink, LLC</option>
+                        <option value="&amp;v=190">NJR</option>
+                        <option value="&amp;v=360">NKK Switches</option>
+                        <option value="&amp;v=12">NMB Technologies Corporation</option>
+                        <option value="&amp;v=37">Norcomp Inc.</option>
+                        <option value="&amp;v=1490">Nordic Semiconductor</option>
+                        <option value="&amp;v=816">Nuvoton Technology Corporation of America</option>
+                        <option value="&amp;v=390">NVE Corp/Isolation Products</option>
+                        <option value="&amp;v=568">NXP Semiconductors</option>
+                        <option value="&amp;v=1676">Octavo Systems</option>
+                        <option value="&amp;v=1844">O.C. White Co.</option>
+                        <option value="&amp;v=1907">ODU</option>
+                        <option value="&amp;v=273">Ohmite</option>
+                        <option value="&amp;v=1188">Olimex LTD</option>
+                        <option value="&amp;v=39">Omron Electronics Inc-EMC Div</option>
+                        <option value="&amp;v=236">Omron Automation and Safety</option>
+                        <option value="&amp;v=488">ON Semiconductor</option>
+                        <option value="&amp;v=52">On Shore Technology Inc</option>
+                        <option value="&amp;v=1720">Oplink, a Molex company</option>
+                        <option value="&amp;v=1468">Option NV</option>
+                        <option value="&amp;v=958">Opto Diode Corp</option>
+                        <option value="&amp;v=1672">Opulent Americas</option>
+                        <option value="&amp;v=1653">O&#39;Reilly Media, Inc.</option>
+                        <option value="&amp;v=1053">Orion Fans</option>
+                        <option value="&amp;v=475">OSRAM Opto Semiconductors Inc</option>
+                        <option value="&amp;v=1156">Packet Digital LLC</option>
+                        <option value="&amp;v=8001">Panasonic Corporation</option>
+                        <option value="&amp;v=74">PanaVise</option>
+                        <option value="&amp;v=298">Panduit Corp</option>
+                        <option value="&amp;v=149">Parallax Inc</option>
+                        <option value="&amp;v=215">Parlex USA LLC</option>
+                        <option value="&amp;v=1878">Particle</option>
+                        <option value="&amp;v=195">Patco Electronics</option>
+                        <option value="&amp;v=91">Patco Services Inc</option>
+                        <option value="&amp;v=1699">Peerless by Tymphany</option>
+                        <option value="&amp;v=8092">nVent Schroff</option>
+                        <option value="&amp;v=1046">pSemi</option>
+                        <option value="&amp;v=242">Pericom</option>
+                        <option value="&amp;v=1452">Pervasive Displays</option>
+                        <option value="&amp;v=993">PHIHONG USA</option>
+                        <option value="&amp;v=277">Phoenix Contact</option>
+                        <option value="&amp;v=8119">Phoenix Mecano</option>
+                        <option value="&amp;v=911">Phyton Inc</option>
+                        <option value="&amp;v=1778">Pimoroni</option>
+                        <option value="&amp;v=1910">Pi Supply</option>
+                        <option value="&amp;v=501">Pomona Electronics</option>
+                        <option value="&amp;v=527">Pontiac Coil Inc</option>
+                        <option value="&amp;v=403">Portescap</option>
+                        <option value="&amp;v=835">Powerex Inc</option>
+                        <option value="&amp;v=596">Power Integrations</option>
+                        <option value="&amp;v=193">PRD Plastics</option>
+                        <option value="&amp;v=1212">Preci-Dip</option>
+                        <option value="&amp;v=1230">Precision Design Associates, Inc</option>
+                        <option value="&amp;v=98">Precision Electronic Components Ltd</option>
+                        <option value="&amp;v=1777">Precision Technology, Inc.</option>
+                        <option value="&amp;v=1532">Proant AB</option>
+                        <option value="&amp;v=668">PUI Audio, Inc.</option>
+                        <option value="&amp;v=1736">PULS</option>
+                        <option value="&amp;v=553">Pulse Electronics Corporation</option>
+                        <option value="&amp;v=1871">Pycom</option>
+                        <option value="&amp;v=1916">Qoitech</option>
+                        <option value="&amp;v=1516">QT Brightek (QTB)</option>
+                        <option value="&amp;v=1619">Quadcept</option>
+                        <option value="&amp;v=189">Qualtek</option>
+                        <option value="&amp;v=602">Digi International</option>
+                        <option value="&amp;v=469">Radial Magnet Inc</option>
+                        <option value="&amp;v=1783">Radiocrafts</option>
+                        <option value="&amp;v=1772">RAF</option>
+                        <option value="&amp;v=1715">RAFI</option>
+                        <option value="&amp;v=428">Cypress Semiconductor Corp</option>
+                        <option value="&amp;v=1690">Raspberry Pi</option>
+                        <option value="&amp;v=1807">RayVio</option>
+                        <option value="&amp;v=945">RECOM Power</option>
+                        <option value="&amp;v=68">Red Lion Controls</option>
+                        <option value="&amp;v=559">Renesas Electronics America</option>
+                        <option value="&amp;v=1752">RF360 - A Qualcomm-TDK joint venture</option>
+                        <option value="&amp;v=1562">RF Digital Corporation</option>
+                        <option value="&amp;v=357">RF Solutions</option>
+                        <option value="&amp;v=1028">Richtek USA Inc</option>
+                        <option value="&amp;v=696">Riedon</option>
+                        <option value="&amp;v=1604">Rigado</option>
+                        <option value="&amp;v=846">ROHM Semiconductor</option>
+                        <option value="&amp;v=1868">Rosenberger</option>
+                        <option value="&amp;v=770">RPM Systems Corp</option>
+                        <option value="&amp;v=1189">Rubycon</option>
+                        <option value="&amp;v=1770">RushUp</option>
+                        <option value="&amp;v=831">Sagrad Inc</option>
+                        <option value="&amp;v=1683">Samsung ARTIK</option>
+                        <option value="&amp;v=1276">Samsung Electro-Mechanics</option>
+                        <option value="&amp;v=1510">Samsung Semiconductor</option>
+                        <option value="&amp;v=612">Samtec Inc</option>
+                        <option value="&amp;v=1261">Sanken</option>
+                        <option value="&amp;v=1688">Sanyo Denki</option>
+                        <option value="&amp;v=817">Schaffner EMC Inc</option>
+                        <option value="&amp;v=486">SCHURTER Inc.</option>
+                        <option value="&amp;v=1569">SCS</option>
+                        <option value="&amp;v=1597">Seeed Technology Co., Ltd.</option>
+                        <option value="&amp;v=899">Segger Microcontroller Systems</option>
+                        <option value="&amp;v=600">Semtech</option>
+                        <option value="&amp;v=1862">Sensata Sensors Thermal Sensors and Switches</option>
+                        <option value="&amp;v=8118">Sensata Technologies</option>
+                        <option value="&amp;v=723">Sensata Technologies – Airpax</option>
+                        <option value="&amp;v=1649">Sensirion</option>
+                        <option value="&amp;v=897">Seoul Semiconductor Inc</option>
+                        <option value="&amp;v=1158">Serious Integrated Inc</option>
+                        <option value="&amp;v=128">Serpac</option>
+                        <option value="&amp;v=1782">SGX Sensortech</option>
+                        <option value="&amp;v=425">Sharp Microelectronics</option>
+                        <option value="&amp;v=1645">Sierra Wireless</option>
+                        <option value="&amp;v=1895">Sigfox</option>
+                        <option value="&amp;v=703">Sigma Designs Inc</option>
+                        <option value="&amp;v=595">Signal Transformer</option>
+                        <option value="&amp;v=1662">ABLIC U.S.A. Inc.</option>
+                        <option value="&amp;v=1827">Silego Technology</option>
+                        <option value="&amp;v=336">Silicon Labs</option>
+                        <option value="&amp;v=1679">Siretta</option>
+                        <option value="&amp;v=1473">SiTime</option>
+                        <option value="&amp;v=753">Skyetek Inc</option>
+                        <option value="&amp;v=863">Skyworks Solutions Inc</option>
+                        <option value="&amp;v=271">SL Power Electronics Manufacture of Condor/Ault Brands</option>
+                        <option value="&amp;v=1655">SMC Diode Solutions</option>
+                        <option value="&amp;v=433">Soberton Inc</option>
+                        <option value="&amp;v=1855">Socle Technology Corporation</option>
+                        <option value="&amp;v=1668">SolidRun</option>
+                        <option value="&amp;v=666">Souriau Connection Technology</option>
+                        <option value="&amp;v=428">Cypress Semiconductor Corp</option>
+                        <option value="&amp;v=1568">SparkFun Electronics</option>
+                        <option value="&amp;v=1684">Spec Sensors</option>
+                        <option value="&amp;v=905">Spectra Symbol</option>
+                        <option value="&amp;v=105">Sprague-Goodman</option>
+                        <option value="&amp;v=734">SSI Technologies Inc</option>
+                        <option value="&amp;v=1921">SST Sensing</option>
+                        <option value="&amp;v=738">Stackpole Electronics, Inc.</option>
+                        <option value="&amp;v=452">Staco Energy Products Company</option>
+                        <option value="&amp;v=374">Standex-Meder Electronics</option>
+                        <option value="&amp;v=404">Stanley Electric</option>
+                        <option value="&amp;v=96">Steinel America</option>
+                        <option value="&amp;v=1743">steute Wireless</option>
+                        <option value="&amp;v=380">Stewart Connector</option>
+                        <option value="&amp;v=497">STMicroelectronics</option>
+                        <option value="&amp;v=192">Storm Interface</option>
+                        <option value="&amp;v=35">Sullins Connector Solutions</option>
+                        <option value="&amp;v=308">Sumida Corporation</option>
+                        <option value="&amp;v=1497">SunLED Company, LLC</option>
+                        <option value="&amp;v=259">Sunon</option>
+                        <option value="&amp;v=408">Susumu</option>
+                        <option value="&amp;v=232">Swanstrom Tools USA</option>
+                        <option value="&amp;v=1052">Swissbit</option>
+                        <option value="&amp;v=137">Switchcraft, Inc.</option>
+                        <option value="&amp;v=1608">Syfer</option>
+                        <option value="&amp;v=746">Synapse Wireless</option>
+                        <option value="&amp;v=1048">Tag-Connect LLC</option>
+                        <option value="&amp;v=1880">Taica Corporation</option>
+                        <option value="&amp;v=1664">Taitien</option>
+                        <option value="&amp;v=1801">Taiwan Semiconductor</option>
+                        <option value="&amp;v=587">TAIYO YUDEN</option>
+                        <option value="&amp;v=1295">Talema Group, LLC</option>
+                        <option value="&amp;v=1526">Tallysman Wireless, Inc.</option>
+                        <option value="&amp;v=1788">Talon Communications, Inc.</option>
+                        <option value="&amp;v=132">Tamura</option>
+                        <option value="&amp;v=931">Taoglas</option>
+                        <option value="&amp;v=445">TDK Corporation</option>
+                        <option value="&amp;v=285">TDK-Lambda Americas, Inc.</option>
+                        <option value="&amp;v=1030">Techflex</option>
+                        <option value="&amp;v=1405">TechNexion</option>
+                        <option value="&amp;v=1873">Techspray</option>
+                        <option value="&amp;v=266">TechTools</option>
+                        <option value="&amp;v=8004">TE Connectivity</option>
+                        <option value="&amp;v=844">TE Connectivity Aerospace, Defense and Marine</option>
+                        <option value="&amp;v=450">TE Connectivity ALCOSWITCH Switches</option>
+                        <option value="&amp;v=17">TE Connectivity AMP Connectors</option>
+                        <option value="&amp;v=174">TE Connectivity Corcom Filters</option>
+                        <option value="&amp;v=1508">TE Connectivity DEUTSCH Connectors</option>
+                        <option value="&amp;v=1734">TE Connectivity DEUTSCH INDUSTRIAL &amp; COMMERCIAL TRANSPORTATION</option>
+                        <option value="&amp;v=223">TE Connectivity Measurement Specialties Inc.</option>
+                        <option value="&amp;v=41">TE Connectivity Potter &amp; Brumfield Relays</option>
+                        <option value="&amp;v=484">TE Connectivity Raychem Cable Protection</option>
+                        <option value="&amp;v=1771">Telcodium</option>
+                        <option value="&amp;v=1133">Teledyne LeCroy</option>
+                        <option value="&amp;v=943">Telit</option>
+                        <option value="&amp;v=839">Tensility International Corporation</option>
+                        <option value="&amp;v=771">Terasic Inc.</option>
+                        <option value="&amp;v=290">TPI (Test Products International)</option>
+                        <option value="&amp;v=1912">TEWA Sensors LLC</option>
+                        <option value="&amp;v=296">Texas Instruments</option>
+                        <option value="&amp;v=1168">t-Global Technology</option>
+                        <option value="&amp;v=1845">Thales Visionix, Inc.</option>
+                        <option value="&amp;v=1523">ThingMagic</option>
+                        <option value="&amp;v=1894">Thinxtra Solutions Limited</option>
+                        <option value="&amp;v=1121">Thomas Research Products</option>
+                        <option value="&amp;v=1832">TinyCircuits</option>
+                        <option value="&amp;v=893">Torex Semiconductor, Ltd.</option>
+                        <option value="&amp;v=1853">Toshiba Memory America, Inc. </option>
+                        <option value="&amp;v=264">Toshiba Semiconductor and Storage</option>
+                        <option value="&amp;v=1238">Touchstone Semiconductor</option>
+                        <option value="&amp;v=1176">TPK America</option>
+                        <option value="&amp;v=1707">Transphorm</option>
+                        <option value="&amp;v=1686">Trenz Electronic</option>
+                        <option value="&amp;v=237">Triad Magnetics</option>
+                        <option value="&amp;v=1460">TRINAMIC Motion Control GmbH</option>
+                        <option value="&amp;v=95">Tripp Lite</option>
+                        <option value="&amp;v=1775">Tronics</option>
+                        <option value="&amp;v=1419">TRP Connector</option>
+                        <option value="&amp;v=8064">TT Electronics Corporation</option>
+                        <option value="&amp;v=987">TT Electronics/BI</option>
+                        <option value="&amp;v=989">TT Electronics/IRC</option>
+                        <option value="&amp;v=365">TT Electronics/Optek Technology</option>
+                        <option value="&amp;v=985">TT Electronics/Welwyn</option>
+                        <option value="&amp;v=438">Twin Industries</option>
+                        <option value="&amp;v=887">TXC Corporation</option>
+                        <option value="&amp;v=8004">TE Connectivity</option>
+                        <option value="&amp;v=1485">UDOO</option>
+                        <option value="&amp;v=1595">Ultra Librarian</option>
+                        <option value="&amp;v=565">United Chemi-Con</option>
+                        <option value="&amp;v=38">US-Lasers, Inc.</option>
+                        <option value="&amp;v=615">U.S. Sensor</option>
+                        <option value="&amp;v=153">Varitronix</option>
+                        <option value="&amp;v=44">Vector Electronics</option>
+                        <option value="&amp;v=1780">Verivolt</option>
+                        <option value="&amp;v=1241">VersaLogic Corporation</option>
+                        <option value="&amp;v=1737">VersaSense</option>
+                        <option value="&amp;v=1102">Vicor Corporation</option>
+                        <option value="&amp;v=1732">Vicotee</option>
+                        <option value="&amp;v=1803">Viking Technology</option>
+                        <option value="&amp;v=1550">Virtium Technology Inc.</option>
+                        <option value="&amp;v=8026">Vishay Corporation</option>
+                        <option value="&amp;v=56">Vishay/BCcomponents</option>
+                        <option value="&amp;v=749">Vishay/Beyschlag</option>
+                        <option value="&amp;v=541">Vishay/Dale</option>
+                        <option value="&amp;v=804">Vishay Foil Resistors (Division of Vishay Precision Group)</option>
+                        <option value="&amp;v=274">Vishay/Huntington Electric Inc.</option>
+                        <option value="&amp;v=8067">Vishay Precision Group</option>
+                        <option value="&amp;v=112">Vishay Semiconductor/Diodes Division</option>
+                        <option value="&amp;v=751">Vishay Semiconductor / Opto Division</option>
+                        <option value="&amp;v=716">Vishay/Sfernice</option>
+                        <option value="&amp;v=742">Vishay/Siliconix</option>
+                        <option value="&amp;v=693">Vishay/Spectrol</option>
+                        <option value="&amp;v=718">Vishay/Sprague</option>
+                        <option value="&amp;v=764">Vishay/Thin Film</option>
+                        <option value="&amp;v=720">Vishay/Vitramon</option>
+                        <option value="&amp;v=28">Visual Communications Company, LLC</option>
+                        <option value="&amp;v=62">Kaga Electronics USA</option>
+                        <option value="&amp;v=345">Wakefield-Vette</option>
+                        <option value="&amp;v=1292">Walsin Technology Corporation</option>
+                        <option value="&amp;v=1406">Wandboard</option>
+                        <option value="&amp;v=1740">WeEn Semiconductors Co., Ltd</option>
+                        <option value="&amp;v=281">Weidmuller</option>
+                        <option value="&amp;v=431">Wiha</option>
+                        <option value="&amp;v=256">Winbond Electronics</option>
+                        <option value="&amp;v=991">Winchester Electronics</option>
+                        <option value="&amp;v=385">Wintec Industries</option>
+                        <option value="&amp;v=1278">WIZnet</option>
+                        <option value="&amp;v=1697">Wolfspeed</option>
+                        <option value="&amp;v=732">Wurth Electronics Inc.</option>
+                        <option value="&amp;v=1773">Wurth Electronics iBE</option>
+                        <option value="&amp;v=1297">Wurth Electronics Midcom</option>
+                        <option value="&amp;v=415">Xeltek</option>
+                        <option value="&amp;v=122">Xilinx Inc</option>
+                        <option value="&amp;v=880">XMOS</option>
+                        <option value="&amp;v=1470">XP Power</option>
+                        <option value="&amp;v=1551">Xsens Technologies BV</option>
+                        <option value="&amp;v=13">Yageo</option>
+                        <option value="&amp;v=1586">Zentri</option>
+                        <option value="&amp;v=269">Zilog</option>
+                </select>
+            </div>
+            <div class="searchbox-inner-wrapper">
+                <div class="searchbox-inner-stock">
+                    <span>
+                        Stock Status:
+                    </span>
+                    <span class="search-in-stock-box">
+                        <input type="checkbox" ID="SearchInStockBox" />
+                        <label for="SearchInStockBox">In Stock</label>
+                    </span>
+                    <br />
+                    <span class="search-normal-stock-box">
+                        <input type="checkbox" ID="SearchNormalStockBox" />
+                        <label for="SearchNormalStockBox">Normally Stocking</label>
+                    </span>
+                    <br />
+                    <span class="search-new-prod-box">
+                        <input type="checkbox" ID="SearchNewProductsBox" />
+                        <label for="SearchNewProductsBox">New Products</label>
+                    </span>
+                </div>
+                <div class="searchbox-inner-media">
+                    <span>
+                        Media Available:
+                    </span>
+                    <span class="search-datasheet-box">
+                        <input type="checkbox" ID="SearchDatasheetBox" />
+                        <label for="SearchDatasheetBox">Datasheet</label>
+                    </span>
+                    <br />
+                    <span class="search-photo-box">
+                        <input type="checkbox" ID="SearchPhotoBox" />
+                        <label for="SearchPhotoBox">Photo</label>
+                    </span>
+                    <br />
+                    <span class="search-cad-box">
+                        <input type="checkbox" ID="SearchEdaBox" />
+                        <label for="SearchEdaBox">EDA/CAD Models</label>
+                    </span>
+                </div>
+                <div class="searchbox-inner-environmental">
+                    <span>
+                        Environmental:
+                    </span>
+                    <span class="search-rohs-box">
+                        <input type="checkbox" ID="SearchRohsBox" />
+                        <label for="SearchRohsBox">RoHS Compliant</label>
+                    </span>
+                    <br />
+                    <span class="search-non-rohs-box">
+                        <input type="checkbox" ID="SearchNonRohsBox" />
+                        <label for="SearchNonRohsBox">Non-RoHS Compliant</label>
+                    </span>
+                </div>
+            </div>
+        </div>
+</div>
+
+<script>
+    window.addEventListener("DOMContentLoaded", function (event) { { searchBarModule() } });
+</script>
+
+        <div class="header__links">
+<a class="header__resource resource--products" href="/products/en" target="">
+                <span class="header__resource-separator resource-separator--empty">&nbsp;</span>
+                    <span class="header__resource-text">PRODUCTS</span>
+            </a><a class="header__resource resource--suppliers" href="/en/supplier-centers" target="">
+                <span class="header__resource-separator ">&nbsp;</span>
+                    <span class="header__resource-text">MANUFACTURERS</span>
+            </a><a class="header__resource resource--resources">
+                    <span class="header__resource-separator ">&nbsp;</span>
+                    <span class="header__resource-text resource-text--dropdown">RESOURCES</span>
+                </a><span class="header__resource-separator">&nbsp;</span>
+                <div id="headerChatButton" class="header__resource resource--chat"></div>
+        </div>
+    </div>
+    <div class="header__right">
+        <div class="header__locale">
+            <div class="locale--country-dropdown">
+                <div id="country-dropdown"></div>
+            </div>
+            <div class="locale--lang-cur">
+                            <span>English</span>
+
+                        <span class="header__text-separator"></span>
+                            <div id="cur-dropdown">
+                                <div class="cur-dropdown">
+                                    <ul>
+                                        <li>
+                                            <span>USD</span>
+                                        </li>
+                                    </ul>
+                                    <div class="cur-dropdown-list regions">
+                                        <ul>
+                                                <li>
+                                                    <span>USD</span>
+                                                </li>
+                                                <li>
+                                                    <span>INR</span>
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+            </div>
+        </div>
+        <div class="header__cart-login">
+<a class="header__resource resource--cart">
+        <span class="header__resource-separator resource-separator--empty">&nbsp;</span>
+        <span class="header__resource-text resource-text--dropdown"> Your item(s) </span>
+    </a><a class="header__resource resource--mydigikey">
+    <span class="header__resource-separator">&nbsp;</span>
+    <span class="header__resource-text resource-text--dropdown"><span>Login or</span>REGISTER </span>
+</a>
+        </div>
+    </div>
+    <div id="pushmenu" class="pushmenu pushmenu--nav">
+        <span class="pushmenu__close"><img src="//www.digikey.in/-/media/Images/Global/Buttons/hamburger.png?la=en-IN&amp;ts=beb05939-0193-4203-ad37-3a9b774424bb"></span>
+        <div class="pushmenu__wrapper">
+                        <a href="/products/en">PRODUCTS</a>
+                        <a href="/en/supplier-centers">MANUFACTURERS</a>
+                        <a class="pushmenu__drawer-heading" id="resourceslink">RESOURCES<span></span></a>
+                        <div class="pushmenu__drawer deep-drawer header__dropdown dropdown--resources" id="resourcesdrawer">
+                                <a class="pushmenu__drawer-heading">Research<span></span></a>
+                                <div class="pushmenu__drawer">
+                                        <a href="/en/resources/api-solutions">API Solutions</a>
+                                        <a href="/en/articles/techzone/">Articles</a>
+                                        <a href="/en/content-search">Content Library</a>
+                                        <a href="/en/engineering-resource-center">Engineering Resources</a>
+                                        <a href="/en/resources/industrial-automation/product-selector">Industrial Automation</a>
+                                        <a href="/en/resources/iot-resource-center/overview">IoT Solutions</a>
+                                        <a href="/en/new-products">Newest Products</a>
+                                        <a href="/en/ptm">Product Training Modules</a>
+                                        <a href="/en/resources/sensors/index">Sensors Product Selector</a>
+                                        <a href="https://forum.digikey.com/">TechForum</a>
+                                        <a href="/en/videos">Video Library</a>
+                                </div>
+                                <a class="pushmenu__drawer-heading">Design<span></span></a>
+                                <div class="pushmenu__drawer">
+                                        <a href="/en/resources/online-conversion-calculators">Conversion Calculators</a>
+                                        <a href="/en/resources/development-tools/product-selector">Development Tools</a>
+                                        <a href="/en/resources/design-tools/design-tools">EDA &amp; Design Tools</a>
+                                        <a href="/en/maker">Maker.io</a>
+                                        <a href="/reference-designs/en">Reference Designs</a>
+                                        <a href="/en/resources/design-tools/schemeit"> Scheme-it&#174; Design Tool</a>
+                                        <a href="/en/techzones">TechZones℠</a>
+                                </div>
+                                <a class="pushmenu__drawer-heading">Search / Ordering<span></span></a>
+                                <div class="pushmenu__drawer">
+                                        <a href="/bom">BOM Manager</a>
+                                        <a href="/en/resources/browser-resources">Browser Resources</a>
+                                        <a href="/catalog/en">Online Catalog</a>
+                                        <a href="/mydigikey/revieworder/status?lang=en">Order Status</a>
+                                        <a href="/classic/Ordering/AddPart.aspx?lang=en">Shopping Cart</a>
+                                </div>
+                                                    </div>
+                <span class="pushmenu__section-heading">My Digi-Key</span>
+                <div class="header__dropdown dropdown--mydigikey">
+                        <a href="https://www.digikey.in/classic/registereduser/mydigikey.aspx?site=IN&amp;lang=en" class="dropdown--button" >Login</a>
+                        <a href="https://www.digikey.in/classic/RegisteredUser/Register.aspx?site=IN&amp;lang=en" class="dropdown--button" >Register</a>
+                        <a href="/en/help/why-register" class="dropdown--button" >Why Register</a>
+                </div>
+                <div class="header__dropdown dropdown--cart">
+                    <a href="https://www.digikey.in/classic/Ordering/AddPart.aspx?lang=en" class="dropdown--button">View Cart</a>
+                </div>
+                <span class="pushmenu__section-heading">More</span>
+                <a href="/en/resources/international">
+                    Change Country/Region
+                    <img src="//www.digikey.in/-/media/Images/Global/Flags/IN_Flag.png?ts=a5266fa8-981f-4806-bc3d-8b12658693c5" class="pushmenu__flag" alt="IN" />
+                </a>
+                    <a class="pushmenu__drawer-heading">
+                        USD
+                        <span></span>
+                    </a>
+                    <div class="pushmenu__drawer">
+                                <a class="cur-pushmenu" data-cur="INR">INR</a>
+                    </div>
+                        <a href="/en/resources/international">
+                            English
+                        </a>
+
+        </div>
+    </div>
+</div>
+
+        <div id="content">
+            <div class="layout-twocolumn">
+    <div class="content-column">
+        <div id="leftColumn">
+            <div class="richtextcontent" dir="ltr">
+    <div class="breadcrumbs rte-crumbs"><a href="/en/resources/online-conversion-calculators">Conversion Calculators</a> &gt; 4 Band Resistor Color Code</div>
+<h1 class="headline-border">4 Band Resistor Color Code Calculator</h1>
+
+<div class="calculator-wrapper">
+    <div class="calculator-description">
+        <h2 class="headline-border">About:</h2>
+        <p>This tool is used to decode information for color banded axial lead resistors. Select the number of bands, then their colors to determine the value and tolerance of the resistors or <a href="/en/resources/resistors">view all resistors</a> Digi-Key has to offer. Learn more about <a href="/en/articles/techzone/2017/apr/big-boys-race-young-girls-violet-wins-resistors-color-codes">resistors and resistor color codes</a>.</p>
+    </div>
+    <div class="calculator">
+        <h3>Number of Bands:</h3>
+        <div><div class="selector">
+            <div><a class="button" style="background-image: none;" href="/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band">4 Band</a></div>
+            <div><a class="button" href="/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-5-band">5 Band</a></div>
+            <div><a class="button" href="/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-6-band">6 Band</a></div>
+            <div><a class="button fancy" href="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/resistor-color-chart.png?la=en-IN&ts=03de8cd9-c3fe-4182-ae7d-4d0decc83ad9">Color Code Chart</a></div>
+        </div></div>
+        
+        <div class="clear"></div><br>
+        <h3>Select the color of each band on the resistor:</h3>
+<div class="calculator">
+		<div class="calculator-input">
+			<div class="selectColor">
+				<span class="res-select">1st Band:</span>
+					<dl class="dropdown" id="firstband">
+						<dt>Select a Color <span style="float: right;">&#xf0dd;</span></dt>
+						<dd>
+							<ul data-type="firstband">
+								<li data-firstband-value="1"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/brown.png?la=en-IN&ts=04cccf2d-442f-4947-a216-de52cc66c8ab"> Brown <span class="label">1</span></li>
+								<li data-firstband-value="2"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/red.png?la=en-IN&ts=7eb8fc32-7b15-4725-8feb-ba72306a63a3"> Red <span class="label">2</span></li>
+								<li data-firstband-value="3"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/orange.png?la=en-IN&ts=f2692308-08d0-4663-aef1-a6c279216068"> Orange <span class="label">3</span></li>
+								<li data-firstband-value="4"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/yellow.png?la=en-IN&ts=2d92330d-d41b-4efd-8133-23ea58c1fee8"> Yellow <span class="label">4</span></li>
+								<li data-firstband-value="5"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/green.png?la=en-IN&ts=875dacc0-48a7-4c1c-a0d1-4d255e098ef9"> Green <span class="label">5</span></li>
+								<li data-firstband-value="6"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/blue.png?la=en-IN&ts=0a7757d7-5fa0-4608-b659-9b85cb902cc1"> Blue <span class="label">6</span></li>
+								<li data-firstband-value="7"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/violet.png?la=en-IN&ts=25187a22-0e8c-4cb3-ab64-9576be77bbb9"> Violet <span class="label">7</span></li>
+								<li data-firstband-value="8"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/gray.png?la=en-IN&ts=d9b2887e-6655-4d01-84eb-fc8e09fd73d4"> Gray <span class="label">8</span></li>
+								<li data-firstband-value="9"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/white.png?la=en-IN&ts=0f17ef22-565c-428d-b8ae-f9d7d7f947cd"> White <span class="label">9</span></li>
+							</ul>
+						</dd>
+					</dl>
+				</div>
+			</div>
+		<div class="calculator-input">
+			<div class="selectColor">
+				<span class="res-select">2nd Band:</span>
+					<dl class="dropdown" id="secondband">
+						<dt>Select a Color <span style="float: right;">&#xf0dd;</span></dt>
+						<dd>
+							<ul data-type="secondband">
+								<li data-secondband-value="0"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/black.png?la=en-IN&ts=6ebe575e-d1ba-41ef-8d0f-edd8a4667cd4"> Black <span class="label">0</span></li>
+								<li data-secondband-value="1"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/brown.png?la=en-IN&ts=04cccf2d-442f-4947-a216-de52cc66c8ab"> Brown <span class="label">1</span></li>
+								<li data-secondband-value="2"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/red.png?la=en-IN&ts=7eb8fc32-7b15-4725-8feb-ba72306a63a3"> Red <span class="label">2</span></li>
+								<li data-secondband-value="3"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/orange.png?la=en-IN&ts=f2692308-08d0-4663-aef1-a6c279216068"> Orange <span class="label">3</span></li>
+								<li data-secondband-value="4"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/yellow.png?la=en-IN&ts=2d92330d-d41b-4efd-8133-23ea58c1fee8"> Yellow <span class="label">4</span></li>
+								<li data-secondband-value="5"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/green.png?la=en-IN&ts=875dacc0-48a7-4c1c-a0d1-4d255e098ef9"> Green <span class="label">5</span></li>
+								<li data-secondband-value="6"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/blue.png?la=en-IN&ts=0a7757d7-5fa0-4608-b659-9b85cb902cc1"> Blue <span class="label">6</span></li>
+								<li data-secondband-value="7"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/violet.png?la=en-IN&ts=25187a22-0e8c-4cb3-ab64-9576be77bbb9"> Violet <span class="label">7</span></li>
+								<li data-secondband-value="8"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/gray.png?la=en-IN&ts=d9b2887e-6655-4d01-84eb-fc8e09fd73d4"> Gray <span class="label">8</span></li>
+								<li data-secondband-value="9"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/white.png?la=en-IN&ts=0f17ef22-565c-428d-b8ae-f9d7d7f947cd"> White <span class="label">9</span></li>
+							</ul>
+						</dd>
+					</dl>
+				</div>
+			</div>
+		<div class="calculator-input">
+			<div class="selectColor">
+				<span class="res-select">Multiplier:</span>
+					<dl class="dropdown" id="multiplier">
+						<dt>Select a Color <span style="float: right;">&#xf0dd;</span></dt>
+						<dd>
+							<ul data-type="multiplier">
+								<li data-multiplier-value="100"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/black.png?la=en-IN&ts=6ebe575e-d1ba-41ef-8d0f-edd8a4667cd4"> Black <span class="label">&times;1 &Omega;</span></li>
+								<li data-multiplier-value="1000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/brown.png?la=en-IN&ts=04cccf2d-442f-4947-a216-de52cc66c8ab"> Brown <span class="label">&times;10 &Omega;</span></li>
+								<li data-multiplier-value="10000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/red.png?la=en-IN&ts=7eb8fc32-7b15-4725-8feb-ba72306a63a3"> Red <span class="label">&times;100 &Omega;</span></li>
+								<li data-multiplier-value="100000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/orange.png?la=en-IN&ts=f2692308-08d0-4663-aef1-a6c279216068"> Orange <span class="label">&times;1 k&Omega;</span></li>
+								<li data-multiplier-value="1000000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/yellow.png?la=en-IN&ts=2d92330d-d41b-4efd-8133-23ea58c1fee8"> Yellow <span class="label">&times;10 k&Omega;</span></li>
+								<li data-multiplier-value="10000000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/green.png?la=en-IN&ts=875dacc0-48a7-4c1c-a0d1-4d255e098ef9"> Green <span class="label">&times;100 k&Omega;</span></li>
+								<li data-multiplier-value="100000000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/blue.png?la=en-IN&ts=0a7757d7-5fa0-4608-b659-9b85cb902cc1"> Blue <span class="label">&times;1 M&Omega;</span></li>
+								<li data-multiplier-value="1000000000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/violet.png?la=en-IN&ts=25187a22-0e8c-4cb3-ab64-9576be77bbb9"> Violet <span class="label">&times;10 M&Omega;</span></li>
+								<li data-multiplier-value="10000000000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/gray.png?la=en-IN&ts=d9b2887e-6655-4d01-84eb-fc8e09fd73d4"> Gray <span class="label">&times;100 M&Omega;</span></li>
+								<li data-multiplier-value="100000000000"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/white.png?la=en-IN&ts=0f17ef22-565c-428d-b8ae-f9d7d7f947cd"> White <span class="label">&times;1 G&Omega;</span></li>
+								<li data-multiplier-value="10"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/gold.png?la=en-IN&ts=f08b2de5-504c-4d8b-898d-be773af03f1b"> Gold <span class="label">&times;0.1 &Omega;</span></li>
+								<li data-multiplier-value="1"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/silver.png?la=en-IN&ts=7308f1dd-ff61-425a-bd57-e17ca2a63ade"> Silver <span class="label">&times;0.01 &Omega;</span></li>
+							</ul>
+						</dd>
+					</dl>
+				</div>
+			</div>
+		<div class="calculator-input">
+			<div class="selectColor">
+				<span class="res-select">Tolerance:</span>
+					<dl class="dropdown" id="tolerance">
+						<dt>Select a Color <span style="float: right;">&#xf0dd;</span></dt>
+						<dd>
+							<ul data-type="tolerance">
+								<li data-tolerance-value="1%" data-tolerance-search="1"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/brown.png?la=en-IN&ts=04cccf2d-442f-4947-a216-de52cc66c8ab"> Brown <span class="label">&plusmn; 1%</span></li>
+								<li data-tolerance-value="2%" data-tolerance-search="4"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/red.png?la=en-IN&ts=7eb8fc32-7b15-4725-8feb-ba72306a63a3"> Red <span class="label">&plusmn; 2%</span></li>
+								<li data-tolerance-value=".5%" data-tolerance-search="355"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/green.png?la=en-IN&ts=875dacc0-48a7-4c1c-a0d1-4d255e098ef9"> Green <span class="label">&plusmn; 0.5%</span></li>
+								<li data-tolerance-value=".25%" data-tolerance-search="377"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/blue.png?la=en-IN&ts=0a7757d7-5fa0-4608-b659-9b85cb902cc1"> Blue <span class="label">&plusmn; 0.25%</span></li>
+								<li data-tolerance-value=".10%" data-tolerance-search="370"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/violet.png?la=en-IN&ts=25187a22-0e8c-4cb3-ab64-9576be77bbb9"> Violet <span class="label">&plusmn; 0.1%</span></li>
+								<li data-tolerance-value=".05%" data-tolerance-search="380"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/gray.png?la=en-IN&ts=d9b2887e-6655-4d01-84eb-fc8e09fd73d4"> Gray <span class="label">&plusmn; 0.05%</span></li>
+								<li data-tolerance-value="5%" data-tolerance-search="2"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/gold.png?la=en-IN&ts=f08b2de5-504c-4d8b-898d-be773af03f1b"> Gold <span class="label">&plusmn; 5%</span></li>
+								<li data-tolerance-value="10%" data-tolerance-search="3"><img src="//www.digikey.in/-/media/Images/Marketing/Resources/Calculators/Circles/silver.png?la=en-IN&ts=7308f1dd-ff61-425a-bd57-e17ca2a63ade"> Silver <span class="label">&plusmn; 10%</span></li>
+							</ul>
+						</dd>
+					</dl>
+				</div>
+			</div>
+	</div>
+<div class="current">
+    <strong>Resistor Value:</strong>
+    <span style="padding-left: 5px;" id="custom-search"></span><div class="resCalcSearch"></div>
+</div>
+
+<div class="relatedResistors"></div>
+<div class="calcResults"></div>
+<div class="calcViewResults"></div>
+
+<div class="related-resistors">
+    <div class="related-products">
+        <h2>Families</h2>
+        <ul>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/accessories/51">Accessories</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/chassis-mount-resistors/54">Chassis Mount Resistors</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/chip-resistor-surface-mount/52">Chip Resistor - Surface Mount</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/resistor-networks-arrays/50">Resistor Networks, Arrays</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/specialized-resistors/55">Specialized Resistors</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/through-hole-resistors/53">Through Hole Resistors</a></li>
+        </ul>
+    </div>
+    <div style="width: 4%;"></div>
+    <div class="related-products">
+        <h2>Types</h2>
+        <ul>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/2?k=Power Resistors">Power Resistor</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/2?k=Current Sense Resistors">Current Sense Resistors</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/kits/resistor-kits/653?k=resistors kits">Resistor Kit</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/2?k=Automotive Resistors">Automotive Resistors</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/2?k=Safety Resistors">Safety Resistors</a></li>
+            <li><a cookie-tracking="ref_page_type=COV;ref_page_sub_type=RC4;ref_page_id={5051CCD5-8E58-4575-9694-0630068EFFA0};ref_page_event=Related Product Link" href="/products/en/resistors/2?k=Moisture Resistant Resistors">Moisture Resistant Resistors</a></li>
+        </ul>
+        </div>
+</div>
+</div></div>
+</div>
+
+
+        </div>
+        <div id="rightColumn" >
+            
+        </div>
+    </div>
+</div>
+        </div>
+        
+
+<div id="footer" class="footer resp">
+    <div id="floater" class="footer__floater">
+        <div id="livechat"></div>
+        <div id="feedback">
+            <span>Send Feedback</span>
+        </div>
+    </div>
+    <div class="footer__wrapper">
+        <div class="footer__wrapper--left">
+            <div class="footer__information">
+                <span class="footer__headline">Information</span>
+                    <a href="/en/terms-and-conditions">Terms &amp; Conditions</a>
+                    <a href="https://forum.digikey.com/">TechForum</a>
+                    <a href="/en/resources/api-solutions">API Solutions</a>
+                    <a href="/en/resources/about-digikey">About Digi-Key</a>
+                    <a href="/en/help/contact-us">Contact Us</a>
+                    <a href="/en/news">Newsroom</a>
+                    <a href="/en/help/site-map">Site Map</a>
+                    <a href="/en/help/browser-support">Supported Browsers</a>
+                    <a href="/en/help/Privacy">Privacy Statement</a>
+            </div>
+            <div class="footer__locale" style="background-image: url();">
+                <span class="footer__headline">India </span>
+                <a href="mailto:india.support@digikey.com" class="footer__button button--email">
+                    india.support@digikey.com
+                </a>
+                <a class="footer__button button--phone" href="tel:+18003444539">
+                    1-800-344-4539
+                </a>
+                <div class="locale__numbers">
+                    Freephone: 000-800-100-1274<br />Toll: 001-218-681-7979<br />Fax: 001-218-681-3380
+                </div>
+                    <div id="footerChatButton"></div>
+
+                <script type="text/javascript" src="https://sealserver.trustkeeper.net/compliance/seal_js.php?code=84EDAB68F81B2B31985E5E20392A8AC1&amp;style=normal&amp;size=105x54&amp;language=en"></script>
+            </div>
+                <div id="_international" class="footer__intl">
+                    <span id="_internationalTitle" class="footer__headline">Information</span>
+                        <a href="/en/resources/international?region=africa">Africa</a>
+                        <a href="/en/resources/international?region=asia">Asia</a>
+                        <a href="/en/resources/international?region=australia">Australia</a>
+                        <a href="/en/resources/international?region=europe">Europe</a>
+                        <a href="/en/resources/international?region=middleeast">Middle East</a>
+                        <a href="/en/resources/international?region=northamerica">North America</a>
+                        <a href="/en/resources/international?region=southamerica">South America</a>
+                </div>
+        </div>
+        <div class="footer__wrapper--right">
+            <div class="footer__blackbox">
+                <div id="_social" class="blackbox__social">
+                        <a href="https://www.facebook.com/digikey.electronics">
+                            <img src="//www.digikey.in/-/media/Images/Icons/Social/facebook_white_icon.png?la=en-IN&amp;ts=ff9f755f-347f-4863-a4bf-99ffb193feed" alt="Facebook" />
+                        </a>
+                        <a href="https://plus.google.com/100161585644604558977?prsrc=3">
+                            <img src="//www.digikey.in/-/media/Images/Icons/Social/google-plus_white_icon.png?la=en-IN&amp;ts=8608a5f0-afe9-4c80-90aa-3aa83d64d553" alt="Google+" />
+                        </a>
+                        <a href="https://www.linkedin.com/company/digi-key-corporation">
+                            <img src="//www.digikey.in/-/media/Images/Icons/Social/linkedin_white_icon.png?la=en-IN&amp;ts=1280d91d-68a8-4212-b981-6b8f9da41055" alt="LinkedIn" />
+                        </a>
+                        <a href="https://twitter.com/digikey">
+                            <img src="//www.digikey.in/-/media/Images/Icons/Social/twitter_white_logo.png?la=en-IN&amp;ts=c8bc24a8-e801-4a62-aad0-8d79f86809d7" alt="Twitter" />
+                        </a>
+                        <a href="https://www.youtube.com/user/digikey">
+                            <img src="//www.digikey.in/-/media/Images/Icons/Social/youtube_white_icon.png?la=en-IN&amp;ts=d4f0d8c4-6ee5-4767-bf24-a60d6414779b" alt="YouTube" />
+                        </a>
+                        <a href="https://www.instagram.com/digikeyelectronics/">
+                            <img src="//www.digikey.in/-/media/Images/Icons/Social/instagram_white_icon.png?la=en-IN&amp;ts=5b08dd6e-2b29-4e2e-b5f0-516c198dc83c" alt="Instagram" />
+                        </a>
+                </div>
+                
+                <div class="blackbox__mobile">
+<a href="https://itunes.apple.com/us/app/digi-key/id352075219?mt=8">
+                        <img src="//www.digikey.in/-/media/Images/Icons/appstore-button.png?la=en-IN&amp;ts=c976317d-d897-448d-a007-9903a42e7184" alt="Download on the App Store" />
+                    </a>
+<a href="https://play.google.com/store/apps/details?id=com.digikey.mobile">
+                        <img src="//www.digikey.in/-/media/Images/Icons/google-play-button.png?la=en-IN&amp;ts=fd6befd6-d964-49d3-9bd2-8eb4f8e4252e" alt="Get it on Google Play" />
+                    </a>
+                </div>
+
+                <a class="footer__view-link view-link--view-desktop" onclick="__helpers.createCookie('fullsite','true'); location.reload(); ">View Desktop Site</a>
+                <a class="footer__view-link view-link--view-mobile" onclick="__helpers.createCookie('fullsite','false'); location.reload(); ">View Mobile Site</a>
+
+                
+                <div id="_copyright" class="blackbox__copyright">
+                    <div class="blackbox__copyright--copy">
+                        <span>Copyright &copy; 1995-2018, Digi-Key Electronics.</span>
+                        <span>All Rights Reserved.</span>
+                    </div>
+                    <div class="blackbox__copyright--address">
+                        <span>701 Brooks Avenue South,</span>
+                        <span>Thief River Falls, MN 56701 USA</span>
+                    </div>
+
+                </div>
+                
+                <div class="blackbox__associations">
+                    <a href="/en/help/authorized-distributor">
+                        <img src="//www.digikey.in/-/media/Images/Homepage/homepage-associations.png?la=en-IN&amp;ts=5be17b19-de5b-47cc-9aeb-f52d49e79106" alt="ECIA Member" />
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+        <script type="text/javascript">(function(a,b,c,d){a='//tags.tiqcdn.com/utag/digikey/main/prod/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);})();var __headerData = {"cartTitle":" {0} item(s) ","cartSubtotal":"Subtotal: ","cartCheckout":"CHECKOUT","cartCheckoutURL":"/classic/ordering/addpart.aspx?checkout=true","viewCart":"View Cart ({0} Items)","noImage":"https://media.digikey.com/Photos/NoPhoto/pna_en_tmb.jpg","site":"IN","lang":"en","cur":"USD","enableToggle":true,"enableCurToggle":true,"loggedInTitle":"<span>Hello {0}</span>MY DIGI-KEY ","loggedInLine2":null,"langs":[{"name":"English","code":"en"}],"orderSite":"in","orderLang":"en","curs":["USD","INR"],"loggedInLinks":"<a href=\"https://www.digikey.in/classic/registereduser/mydigikey.aspx?site=IN&lang=en\" class=\"dropdown--button\">My Digi-Key</a><a href=\"/classic/Logout.aspx\" class=\"dropdown--button\">Logout</a>","freeShippingThresholdText":"Spend {0} more to qualify for FREE shipping","timeToShipText":null,"timeToShipFormat":null,"isDst":true,"notLoggedInCookieEventAnalytics":null};utag_data = { content_search_keywords : '',content_search_filters : '',page_site : 'IN',page_language : 'en',wt_use_udo : 'true',page_title : 'Conversion%20Calculator%20Resistor%20Color%20Code',page_content_group : 'Conversion%20Calculator',page_content_sub_group : 'Resistor%20Color%20Code%204',page_type : 'COV',page_sub_type : 'RC4',page_id : '%7B5051CCD5-8E58-4575-9694-0630068EFFA0%7D' };</script><script type="text/javascript"  src="//www.digikey.in/-/media/Designer/Misc/AdvancedSearchBar/Javascript/advancedsearchbar.js?la=en-IN&amp;ts=1feeb195-8bfa-42b9-9c6e-35f234d99363"></script><script type="text/javascript"  src="//www.digikey.in/-/media/Designer/Global/React/16.0.0/JS/react.js?ts=153c7bc1-4978-484c-a155-a4a9a3a78706"></script><script type="text/javascript"  src="//www.digikey.in/-/media/Designer/Global/React/16.0.0/JS/react-dom.js?ts=cff7e1b0-e775-4a08-be29-76e2751489e8"></script><script type="text/javascript"  src="//www.digikey.in/-/media/Designer/Header/Mvc/JS/countryselector.js?la=en-IN&amp;ts=51cec138-2dac-4418-9fb2-706bc128a8dd"></script><script type="text/javascript"  src="//www.digikey.in/-/media/Designer/Header/Mvc/JS/header.js?ts=908ad1b9-d5d2-45fd-9fa6-c9ea14add543"></script><script type="text/javascript">window.init("India","//www.digikey.in/-/media/Images/Global/Flags/IN_Flag.png?ts=a5266fa8-981f-4806-bc3d-8b12658693c5",[{"region":"Africa","links":[{"name":"South Africa","url":"//www.digikey.co.za","language":"en-za"}]},{"region":"Asia","links":[{"name":"China","url":"//www.digikey.com.cn","language":"zh-cn"},{"name":"Hong Kong","url":"//www.digikey.hk","language":"en-hk"},{"name":"India","url":"//www.digikey.in","language":"en-in"},{"name":"Japan","url":"//www.digikey.jp","language":"ja-jp"},{"name":"Malaysia","url":"//www.digikey.my","language":"en-my"},{"name":"Singapore","url":"//www.digikey.sg","language":"en-sg"},{"name":"South Korea","url":"//www.digikey.kr","language":"ko-kr"},{"name":"Taiwan","url":"//www.digikey.tw","language":"zh-tw"}]},{"region":"Australia","links":[{"name":"Australia","url":"//www.digikey.com.au","language":"en-au"},{"name":"New Zealand","url":"//www.digikey.co.nz","language":"en-nz"}]},{"region":"Europe","links":[{"name":"Austria","url":"//www.digikey.at","language":"de-at"},{"name":"Belgium","url":"//www.digikey.be","language":"en-be"},{"name":"Bulgaria","url":"//www.digikey.bg","language":"en-bg"},{"name":"Czech Republic","url":"//www.digikey.cz","language":"en-cz"},{"name":"Denmark","url":"//www.digikey.dk","language":"en-dk"},{"name":"Estonia","url":"//www.digikey.ee","language":"en-ee"},{"name":"Finland","url":"//www.digikey.fi","language":"en-fi"},{"name":"France","url":"//www.digikey.fr","language":"fr-fr"},{"name":"Germany","url":"//www.digikey.de","language":"de-de"},{"name":"Greece","url":"//www.digikey.gr","language":"en-gr"},{"name":"Hungary","url":"//www.digikey.hu","language":"en-hu"},{"name":"Ireland","url":"//www.digikey.ie","language":"en-ie"},{"name":"Italy","url":"//www.digikey.it","language":"it-it"},{"name":"Latvia","url":"//www.digikey.lv","language":"en-lv"},{"name":"Lithuania","url":"//www.digikey.lt","language":"en-lt"},{"name":"Luxembourg","url":"//www.digikey.lu","language":"en-lu"},{"name":"Netherlands","url":"//www.digikey.nl","language":"en-nl"},{"name":"Norway","url":"//www.digikey.no","language":"en-no"},{"name":"Poland","url":"//www.digikey.pl","language":"en-pl"},{"name":"Portugal","url":"//www.digikey.pt","language":"en-pt"},{"name":"Romania","url":"//www.digikey.ro","language":"en-ro"},{"name":"Slovak Republic","url":"//www.digikey.sk","language":"en-sk"},{"name":"Slovenia","url":"//www.digikey.si","language":"en-si"},{"name":"Spain","url":"//www.digikey.es","language":"es-es"},{"name":"Sweden","url":"//www.digikey.se","language":"en-se"},{"name":"Switzerland","url":"//www.digikey.ch","language":"de-ch"},{"name":"United Kingdom","url":"//www.digikey.co.uk","language":"en-gb"}]},{"region":"Middle East","links":[{"name":"Israel","url":"//www.digikey.co.il","language":"he-il"}]},{"region":"North America","links":[{"name":"Canada","url":"//www.digikey.ca","language":"en-ca"},{"name":"Mexico","url":"//www.digikey.com.mx","language":"es-mx"},{"name":"United States","url":"//www.digikey.com","language":"en-us"}]}]);</script><script type="text/javascript"  src="//www.digikey.in/-/media/Designer/Web Analytics/Cookie Tracking/JS/digikey-webtrends.js?ts=2342b599-c316-4d3b-9f4d-7aa4fc6358e3"></script><script type="text/javascript"  src="//www.digikey.in/-/media/Designer/Global/JS/jquery1101min.js?ts=72608b7b-9de9-44de-8633-9e1f286fc613"></script><script type="text/javascript"  src="//www.digikey.in/-/media/Files/Global/Fancybox/jquery.fancybox.pack.js?ts=a8e66901-2b8f-48fe-8c30-83810763521f"></script><script type="text/javascript">$(".fancy").fancybox();
+$(".fancy-youtube").click(function() {
+	$.fancybox({
+		'padding'	: 0,
+		'autoScale'	: false,
+		'transitionIn'	: 'none',
+		'transitionOut'	: 'none',
+		'title'		: this.title,
+		'width'		: 680,
+		'height'	: 415,
+		'href'		: this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+		'type'		: 'swf',
+		'swf'		: {
+			   		'wmode':'transparent',
+					'allowfullscreen':'true'
+				  }
+		});	
+	return false;
+});
+$(".fancy-ptm").click(function() {
+	$.fancybox({
+		'padding'	: 0,
+		'autoScale'	: false,
+		'transitionIn'	: 'none',
+		'transitionOut'	: 'none',
+		'title'		: this.title,
+		'width'		: 962,
+		'height'	: 720,
+		'type'		: 'iframe'
+		});	
+	return false;
+});
+
+$(".fancy-iframe").click(function() {
+	$.fancybox({
+		'padding'	: 0,
+		'autoScale'	: false,
+		'transitionIn'	: 'none',
+		'transitionOut'	: 'none',
+		'width'		: 680,
+		'height'	: 415
+		});	
+	return false;
+});$(".dropdown dt").click(function() {
+    $(".dropdown dt").not(this).next().find("ul").hide();
+    $(this).next().find("ul").toggle();
+});
+var firstband, secondband, multiplier, tolerance, toleranceSearch;
+$(".dropdown dd ul li").click(function() {
+    whichDrop = $(this).closest("dl").prop("id");
+    if (whichDrop == "firstband") {
+        firstband = $(this).attr("data-firstband-value");
+    } else if (whichDrop == "secondband") {
+        secondband = $(this).attr("data-secondband-value");
+    } else if (whichDrop == "multiplier") {
+        multiplier = $(this).attr("data-multiplier-value");
+    } else if (whichDrop == "tolerance") {
+        tolerance = $(this).attr("data-tolerance-value");
+        toleranceSearch = $(this).attr("data-tolerance-search");
+    }
+    $(this).closest("dl").find("dt").html($(this).html());
+    $(this).parent().hide();
+    if (firstband !== undefined && secondband !== undefined && multiplier !== undefined && tolerance !== undefined) {
+        calculate();
+    }
+
+    function calculate() {
+        var mult, resDisplay, resSearch, res;
+
+        res = ((100 * firstband) + (10 * secondband)) * multiplier / 1000;
+
+        if (res >= 1e9) {
+            res /= 1e9;
+            mult = "G";
+        } else if (res >= 1e6) {
+            res /= 1e6;
+            mult = "M";
+        } else if (res >= 1e3) {
+            res /= 1e3;
+            mult = "k";
+        } else {
+            mult = " ";
+        }
+
+        resDisplay = res + mult + " Ohms";
+        resSearch = res + "+" + mult + "Ohms";
+
+        if (tolerance != "") {
+            resDisplay += " " + tolerance;
+        }
+
+        var resistor0Search = "/products/" + __headerData.lang + "/resistors/through-hole-resistors/53";
+        var psAjaxUrl = "/categoryproductlist/" + __headerData.lang + "/53/6?pv3=" + toleranceSearch + "&pv2085=u" + resSearch;
+        var psUrl = "/products/" + __headerData.lang + "/resistors/through-hole-resistors/53?pv3=" + toleranceSearch + "&pv2085=u" + resSearch;
+        var keywordUrl = "/products/" + __headerData.lang + "?keywords=" + resDisplay;
+        $("#custom-search").text(resDisplay);
+
+
+        var RelResT, ViewResultsT, NoMatchT, KeywordSearchT;
+        if ((__headerData.lang == "zh" && __headerData.site == "CN") || (__headerData.lang == "zh" && __headerData.site == "SG")) {
+            RelResT = "相关电阻器：", ViewResultsT = "查看全部结果", NoMatchT = "无匹配结果 - ", KeywordSearchT = "关键词搜索";
+        } else if ((__headerData.lang == "zh" && __headerData.site == "HK") || (__headerData.lang == "zh" && __headerData.site == "TW")) {
+            RelResT = "相關電阻：", ViewResultsT = "查看全部結果", NoMatchT = "無符合結果 - ", KeywordSearchT = "關鍵字搜尋";
+        } else if (__headerData.lang == "fr") {
+            RelResT = "Résistances associées :", ViewResultsT = "Afficher tous les résultats", NoMatchT = "Aucune correspondance - ", KeywordSearchT = "Recherche par mot-clé";
+        } else if (__headerData.lang == "de") {
+            RelResT = "Verwandte Widerstände:", ViewResultsT = "Alle Ergebnisse anzeigen", NoMatchT = "Keine Treffer - ", KeywordSearchT = "Stichwortsuche";
+        } else if (__headerData.lang == "he") {
+            RelResT = "נגדים קשורים:", ViewResultsT = "הצגת כל התוצאות", NoMatchT = "אין התאמות - ", KeywordSearchT = "חיפוש לפי מילות חיפוש";
+        } else if (__headerData.lang == "it") {
+            RelResT = "Resistori correlati:", ViewResultsT = "Visualizza tutti i risultati", NoMatchT = "Nessuna corrispondenza - ", KeywordSearchT = "Ricerca per parole chiave";
+        } else if (__headerData.lang == "ja") {
+            RelResT = "関連抵抗器：", ViewResultsT = "全ての結果を閲覧：", NoMatchT = "一致なし - ", KeywordSearchT = "キーワード検索";
+        } else if (__headerData.lang == "ko") {
+            RelResT = "관련 저항기:", ViewResultsT = "결과 모두 보기", NoMatchT = "검색 결과 없음 - ", KeywordSearchT = "키워드 검색";
+        } else if (__headerData.lang == "es") {
+            RelResT = "Resistencias relacionadas:", ViewResultsT = "Ver todos los resultados", NoMatchT = "No hay coincidencias. ", KeywordSearchT = "Búsqueda con palabra clave";
+        } else {
+            RelResT = "Related Resistors:", ViewResultsT = "View All Results", NoMatchT = "No Matches - ", KeywordSearchT = "Keyword Search";
+        }
+
+		        $.ajax({
+            type: "GET",
+            url: psAjaxUrl,
+            dataType: 'json',
+            data: {
+                get_param: 'value'
+            },
+            success: function(result) {
+                $(".calcResults, .calcViewResults, .resCalcSearch, .relatedResistors").html("");
+                var output = "";
+
+                if (result.TotalParts == 0) {
+                    $("<span>" + NoMatchT + "<a href='" + keywordUrl + "'>" + KeywordSearchT + "</a></span>").appendTo(".calcViewResults");
+                    $("<a href='" + keywordUrl + "'><span class='icon-search'></span></a>").appendTo(".resCalcSearch");
+                    $("<h2 class='headline-border'>" + RelResT + "</h2>").appendTo(".relatedResistors");
+                } else {
+                    for (var i in result.PartList) {
+                        console.log(result.PartList[i].PartNumber)
+                        output += "<div class='calcResult'>" + "<a href='" + result.PartList[i].ProductLink + "'>" + "<img src='" + result.PartList[i].Image + "' />" + "<br>" + result.PartList[i].PartNumber + "</a>" +
+                            "<span>" + "<a href='" + result.PartList[i].SmcLink + "'>" + result.PartList[i].Manufacturer + "</a>" + "</span>" +
+                            result.PartList[i].Description + "<br>" + result.PartList[i].UnitPrice + "</div>";
+                    }
+                }
+                if (result.TotalParts > 6) {
+                    $("<a href='" + psUrl + "'><button class='button primary'>" + ViewResultsT + "</button></a>").appendTo(".calcViewResults");
+                    $("<a href='" + psUrl + "'><span class='icon-search'></span></a>").appendTo(".resCalcSearch");
+                    $("<h2 class='headline-border'>" + RelResT + "</h2>").appendTo(".relatedResistors");
+                }
+
+                if ((result.TotalParts > 0) && (result.TotalParts <= 6)) {
+                    $("<a href='" + keywordUrl + "'><span class='icon-search'></span></a>").appendTo(".resCalcSearch");
+                    $("<h2 class='headline-border'>" + RelResT + "</h2>").appendTo(".relatedResistors");
+                }
+                output += "";
+                $(".calcResults").html(output);
+            }
+        });
+    }
+});
+
+document.addEventListener("click", function(e) {
+    if (!__helpers.hasParentWithClass(__helpers.getTarget(e), 'dropdown') && !__helpers.hasParentWithClass(__helpers.getTarget(e), 'header__resource')) {
+        $(".dropdown ul").hide();
+    }
+});
+
+$(".dropdown img.color").addClass("colorvisibility");
+$(".dropdown img.color").toggleClass("colorvisibility");</script><script type="text/javascript"  src="//www.digikey.in/-/media/Designer/Footer/Mvc/JS/footer.js?la=en-IN&amp;ts=9f888af2-cb6f-4463-8003-8b3d322ead1e" defer></script>
+        
+    <input id="MediaFramework_ItemId" name="MediaFramework_ItemId" type="hidden" value="5051CCD58E58457596940630068EFFA0">
+</body>
+</html>
+
