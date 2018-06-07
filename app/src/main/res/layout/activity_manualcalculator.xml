@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ManualCalculator">
+
+    <TextView
+        android:id="@+id/resistanceval"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Resistance:"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tol"
+        android:layout_width="wrap_content"
+        android:layout_height="23dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Tolerance:"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/resistanceval" />
+
+    <ImageView
+        android:id="@+id/resistorl"
+        android:layout_width="wrap_content"
+        android:layout_height="110dp"
+        android:layout_marginTop="32dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:scaleType="fitXY"
+        android:src="@drawable/resistorl"
+        app:layout_constraintEnd_toStartOf="@+id/resistorm"
+        app:layout_constraintTop_toBottomOf="@+id/tol" />
+
+    <ImageView
+        android:id="@+id/resistorm"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:scaleType="fitXY"
+        android:src="@drawable/resistorm"
+        app:layout_constraintBottom_toBottomOf="@+id/resistorl"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/resistorl"
+        app:layout_constraintVertical_bias="0.481" />
+
+    <ImageView
+        android:id="@+id/resistorr"
+        android:layout_width="wrap_content"
+        android:layout_height="110dp"
+        android:layout_marginTop="32dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="false"
+        android:rotation="180"
+        android:scaleType="fitXY"
+        android:src="@drawable/resistorl"
+        app:layout_constraintStart_toEndOf="@+id/resistorm"
+        app:layout_constraintTop_toBottomOf="@+id/tol" />
+
+    <Button
+        android:id="@+id/band1"
+        android:layout_width="20dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:background="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="@+id/resistorl"
+        app:layout_constraintEnd_toStartOf="@+id/resistorm"
+        app:layout_constraintTop_toTopOf="@+id/resistorl" />
+
+    <Button
+        android:id="@+id/band2"
+        android:layout_width="20dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:background="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="@+id/resistorl"
+        app:layout_constraintStart_toStartOf="@+id/resistorr"
+        app:layout_constraintTop_toTopOf="@+id/resistorl"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/band3"
+        android:layout_width="20dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="32dp"
+        android:background="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="@+id/resistorm"
+        app:layout_constraintStart_toStartOf="@+id/resistorm"
+        app:layout_constraintTop_toTopOf="@+id/resistorm"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/band4"
+        android:layout_width="20dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:background="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="@+id/resistorm"
+        app:layout_constraintEnd_toStartOf="@+id/resistorr"
+        app:layout_constraintTop_toTopOf="@+id/resistorm"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/band5"
+        android:layout_width="20dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:background="@color/colorPrimaryDark"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/resistorm"
+        app:layout_constraintStart_toEndOf="@+id/band3"
+        app:layout_constraintTop_toTopOf="@+id/resistorm"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/band6"
+        android:layout_width="20dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="16dp"
+        android:background="@color/colorPrimaryDark"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/resistorm"
+        app:layout_constraintEnd_toStartOf="@+id/band4"
+        app:layout_constraintTop_toTopOf="@+id/resistorm"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/band7"
+        android:layout_width="20dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@color/colorPrimaryDark"
+        app:layout_constraintBottom_toBottomOf="@+id/resistorm"
+        app:layout_constraintEnd_toStartOf="@+id/band4"
+        app:layout_constraintStart_toEndOf="@+id/band3"
+        app:layout_constraintTop_toTopOf="@+id/resistorm"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/fourband"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="64dp"
+        android:text="4 Band"
+        app:layout_constraintEnd_toStartOf="@+id/fiveband"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/resistorl" />
+
+    <Button
+        android:id="@+id/fiveband"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="64dp"
+        android:text="5 Band"
+        android:background="@android:color/holo_green_light"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/resistorl"
+        tools:background="@android:color/holo_green_light" />
+
+    <Button
+        android:id="@+id/sixband"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="64dp"
+        android:text="6 Band"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/fiveband"
+        app:layout_constraintTop_toBottomOf="@+id/band1" />
+
+
+</android.support.constraint.ConstraintLayout>
